@@ -44,17 +44,21 @@
     <display-name lang="pt">Discovery Civilization</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Discovery Theater">
-    <display-name lang="pt">Discovery Theater</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
   <channel id="Discovery Home and Health">
     <display-name lang="pt">Discovery Home and Health</display-name>
-    <icon src="https://www.lineup.tv.br/canais/artv.gif|https://www.lineup.tv.br/canais/1574361045.gif" />
+    <icon src="https://www.lineup.tv.br/canais/urbantv.gif" />
     <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Discovery Science">
     <display-name lang="pt">Discovery Science</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="pt">Discovery Theater</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Turbo">
@@ -89,9 +93,13 @@
     <display-name lang="pt">FX</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="H2">
-    <display-name lang="pt">H2</display-name>
-    <icon src="https://www.lineup.tv.br/canais/cgntv.gif" />
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="History 2">
+    <display-name lang="pt">History 2</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1579013340.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="HBO">
@@ -240,7 +248,7 @@
   </channel>
   <channel id="Nat Geo Kids">
     <display-name lang="pt">Nat Geo Kids</display-name>
-    <icon src="https://www.lineup.tv.br/canais/tvtuba.gif|https://www.lineup.tv.br/canais/tvaparecida.gif" />
+    <icon src="https://www.lineup.tv.br/canais/telecuatro.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Fox Premium 1">
@@ -740,14 +748,6 @@
   <programme start="20200419223000 -0300" stop="20200420004000 -0300" channel="AMC">
     <title lang="pt">Robocop (2014)</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200413170300 -0300" stop="20200413180000 -0300" channel="Animal Planet">
-    <title lang="pt">Vida Selvagem</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413180000 -0300" stop="20200413182600 -0300" channel="Animal Planet">
-    <title lang="pt">Terra Brasil</title>
-    <category lang="pt">Séries/Meio Ambiente</category>
   </programme>
   <programme start="20200413182600 -0300" stop="20200413185200 -0300" channel="Animal Planet">
     <title lang="pt">Terra Brasil</title>
@@ -1505,14 +1505,6 @@
     <title lang="pt">De Abandonados a Supercães</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200413163000 -0300" stop="20200413172500 -0300" channel="AXN">
-    <title lang="pt">C.S.I</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200413172500 -0300" stop="20200413182000 -0300" channel="AXN">
-    <title lang="pt">C.S.I. Miami</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
   <programme start="20200413182000 -0300" stop="20200413191500 -0300" channel="AXN">
     <title lang="pt">Hawaii Five-0</title>
     <category lang="pt">Séries/Ação</category>
@@ -2157,10 +2149,6 @@
     <title lang="pt">Bad Boys 2</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200413155600 -0300" stop="20200413180000 -0300" channel="Cinemax">
-    <title lang="pt">Fome de Poder</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
   <programme start="20200413180000 -0300" stop="20200413185500 -0300" channel="Cinemax">
     <title lang="pt">Missões de Vida</title>
     <category lang="pt">Séries/Comportamento</category>
@@ -2500,30 +2488,6 @@
   <programme start="20200419220000 -0300" stop="20200420000700 -0300" channel="Cinemax">
     <title lang="pt">Ouro e Cobiça</title>
     <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200413170800 -0300" stop="20200413172000 -0300" channel="Cartoon Network">
-    <title lang="pt">DC Super Hero Girls</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413172000 -0300" stop="20200413173100 -0300" channel="Cartoon Network">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413173100 -0300" stop="20200413174300 -0300" channel="Cartoon Network">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413174300 -0300" stop="20200413175400 -0300" channel="Cartoon Network">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413175400 -0300" stop="20200413180500 -0300" channel="Cartoon Network">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413180500 -0300" stop="20200413181700 -0300" channel="Cartoon Network">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200413181700 -0300" stop="20200413183000 -0300" channel="Cartoon Network">
     <title lang="pt">Ursos Sem Curso</title>
@@ -5413,14 +5377,6 @@
     <title lang="pt">O Incrível Mundo de Gumball</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200413161000 -0300" stop="20200413171000 -0300" channel="Comedy Central">
-    <title lang="pt">A Culpa é do Cabral</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200413171000 -0300" stop="20200413181000 -0300" channel="Comedy Central">
-    <title lang="pt">A Culpa é do Cabral</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20200413181000 -0300" stop="20200413184000 -0300" channel="Comedy Central">
     <title lang="pt">Eu, A Patroa e as Crianças</title>
     <category lang="pt">Séries/Comédia</category>
@@ -6521,14 +6477,6 @@
     <title lang="pt">South Park</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200413162800 -0300" stop="20200413171600 -0300" channel="Discovery Channel">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413171600 -0300" stop="20200413180400 -0300" channel="Discovery Channel">
-    <title lang="pt">Largados e Pelados: A Tribo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200413180400 -0300" stop="20200413185200 -0300" channel="Discovery Channel">
     <title lang="pt">Desafio em Dose Dupla</title>
     <category lang="pt">Séries/Documentário</category>
@@ -7297,14 +7245,6 @@
     <title lang="pt">O Fugitivo</title>
     <category lang="pt">Séries/Ação</category>
   </programme>
-  <programme start="20200413162400 -0300" stop="20200413171200 -0300" channel="Discovery Civilization">
-    <title lang="pt">O Que a História Esqueceu</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413171200 -0300" stop="20200413180000 -0300" channel="Discovery Civilization">
-    <title lang="pt">O Que a História Esqueceu</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200413180000 -0300" stop="20200413193600 -0300" channel="Discovery Civilization">
     <title lang="pt">O Egito na História</title>
     <category lang="pt">Séries/Documentário</category>
@@ -8067,810 +8007,6 @@
   </programme>
   <programme start="20200419233600 -0300" stop="20200420002400 -0300" channel="Discovery Civilization">
     <title lang="pt">Histórias de Pescador</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413162400 -0300" stop="20200413171200 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413171200 -0300" stop="20200413180000 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413180000 -0300" stop="20200413184800 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413184800 -0300" stop="20200413191200 -0300" channel="Discovery Theater">
-    <title lang="pt">A Supercâmera</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413191200 -0300" stop="20200413193600 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200413193600 -0300" stop="20200413200000 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200413200000 -0300" stop="20200413202400 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200413202400 -0300" stop="20200413211200 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413211200 -0300" stop="20200413220000 -0300" channel="Discovery Theater">
-    <title lang="pt">Mistérios no Museu</title>
-    <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200413220000 -0300" stop="20200413224800 -0300" channel="Discovery Theater">
-    <title lang="pt">Grandes Missões da NASA</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413224800 -0300" stop="20200413233600 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413233600 -0300" stop="20200414002400 -0300" channel="Discovery Theater">
-    <title lang="pt">Megaconstruções</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414002400 -0300" stop="20200414011200 -0300" channel="Discovery Theater">
-    <title lang="pt">Detonadores</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414011200 -0300" stop="20200414020000 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414020000 -0300" stop="20200414024800 -0300" channel="Discovery Theater">
-    <title lang="pt">Mistérios no Museu</title>
-    <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200414024800 -0300" stop="20200414033600 -0300" channel="Discovery Theater">
-    <title lang="pt">Grandes Missões da NASA</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414033600 -0300" stop="20200414042400 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414042400 -0300" stop="20200414051200 -0300" channel="Discovery Theater">
-    <title lang="pt">Megaconstruções</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414051200 -0300" stop="20200414060000 -0300" channel="Discovery Theater">
-    <title lang="pt">Detonadores</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414060000 -0300" stop="20200414064800 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414064800 -0300" stop="20200414073600 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca - Perigo no Ar</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414073600 -0300" stop="20200414082400 -0300" channel="Discovery Theater">
-    <title lang="pt">Sobreviventes do Gelo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414082400 -0300" stop="20200414091200 -0300" channel="Discovery Theater">
-    <title lang="pt">Detonadores</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414091200 -0300" stop="20200414100000 -0300" channel="Discovery Theater">
-    <title lang="pt">Caçando Trufas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414100000 -0300" stop="20200414104800 -0300" channel="Discovery Theater">
-    <title lang="pt">Rota Perigosa</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414104800 -0300" stop="20200414113600 -0300" channel="Discovery Theater">
-    <title lang="pt">Supercaminhões</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414113600 -0300" stop="20200414131200 -0300" channel="Discovery Theater">
-    <title lang="pt">Criadores de Sonhos</title>
-    <category lang="pt">Séries/Comportamento</category>
-  </programme>
-  <programme start="20200414131200 -0300" stop="20200414140000 -0300" channel="Discovery Theater">
-    <title lang="pt">Ideias para Salvar o Planeta</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414140000 -0300" stop="20200414144800 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414144800 -0300" stop="20200414153600 -0300" channel="Discovery Theater">
-    <title lang="pt">Corpo Humano - Testando os Limites</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414153600 -0300" stop="20200414162400 -0300" channel="Discovery Theater">
-    <title lang="pt">Rota Perigosa</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414162400 -0300" stop="20200414171200 -0300" channel="Discovery Theater">
-    <title lang="pt">A Bíblia: Mistérios Revelados</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414171200 -0300" stop="20200414180000 -0300" channel="Discovery Theater">
-    <title lang="pt">A Bíblia: Mistérios Revelados</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414180000 -0300" stop="20200414184800 -0300" channel="Discovery Theater">
-    <title lang="pt">A Bíblia: Mistérios Revelados</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414184800 -0300" stop="20200414193600 -0300" channel="Discovery Theater">
-    <title lang="pt">Resgate no Everest</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414193600 -0300" stop="20200414200000 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200414200000 -0300" stop="20200414202400 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200414202400 -0300" stop="20200414211200 -0300" channel="Discovery Theater">
-    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414211200 -0300" stop="20200414220000 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414220000 -0300" stop="20200414224800 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414224800 -0300" stop="20200414233600 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200414233600 -0300" stop="20200415002400 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415002400 -0300" stop="20200415011200 -0300" channel="Discovery Theater">
-    <title lang="pt">As Travessias de Jeff Corwin</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415011200 -0300" stop="20200415020000 -0300" channel="Discovery Theater">
-    <title lang="pt">As Travessias de Jeff Corwin</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415020000 -0300" stop="20200415024800 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415024800 -0300" stop="20200415033600 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415033600 -0300" stop="20200415042400 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415042400 -0300" stop="20200415051200 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415051200 -0300" stop="20200415060000 -0300" channel="Discovery Theater">
-    <title lang="pt">As Travessias de Jeff Corwin</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415060000 -0300" stop="20200415064800 -0300" channel="Discovery Theater">
-    <title lang="pt">As Travessias de Jeff Corwin</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415064800 -0300" stop="20200415073600 -0300" channel="Discovery Theater">
-    <title lang="pt">Mistérios no Museu</title>
-    <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200415073600 -0300" stop="20200415082400 -0300" channel="Discovery Theater">
-    <title lang="pt">Grandes Missões da NASA</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415082400 -0300" stop="20200415091200 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415091200 -0300" stop="20200415100000 -0300" channel="Discovery Theater">
-    <title lang="pt">Megaconstruções</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415100000 -0300" stop="20200415104800 -0300" channel="Discovery Theater">
-    <title lang="pt">Detonadores</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415104800 -0300" stop="20200415113600 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415113600 -0300" stop="20200415122400 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca - Perigo no Ar</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415122400 -0300" stop="20200415131200 -0300" channel="Discovery Theater">
-    <title lang="pt">Sobreviventes do Gelo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415131200 -0300" stop="20200415140000 -0300" channel="Discovery Theater">
-    <title lang="pt">Detonadores</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415140000 -0300" stop="20200415144800 -0300" channel="Discovery Theater">
-    <title lang="pt">Caçando Trufas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415144800 -0300" stop="20200415153600 -0300" channel="Discovery Theater">
-    <title lang="pt">Rota Perigosa</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415153600 -0300" stop="20200415162400 -0300" channel="Discovery Theater">
-    <title lang="pt">Supercaminhões</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415162400 -0300" stop="20200415180000 -0300" channel="Discovery Theater">
-    <title lang="pt">Criadores de Sonhos</title>
-    <category lang="pt">Séries/Comportamento</category>
-  </programme>
-  <programme start="20200415180000 -0300" stop="20200415184800 -0300" channel="Discovery Theater">
-    <title lang="pt">Ideias para Salvar o Planeta</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415184800 -0300" stop="20200415193600 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415193600 -0300" stop="20200415200000 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200415200000 -0300" stop="20200415202400 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200415202400 -0300" stop="20200415211200 -0300" channel="Discovery Theater">
-    <title lang="pt">Rota Perigosa</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415211200 -0300" stop="20200415220000 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415220000 -0300" stop="20200415224800 -0300" channel="Discovery Theater">
-    <title lang="pt">Mulheres na Mina</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415224800 -0300" stop="20200415233600 -0300" channel="Discovery Theater">
-    <title lang="pt">Expedições Extremas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200415233600 -0300" stop="20200416002400 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca ao Extremo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416002400 -0300" stop="20200416011200 -0300" channel="Discovery Theater">
-    <title lang="pt">Jeff Corwin em Ação</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416011200 -0300" stop="20200416020000 -0300" channel="Discovery Theater">
-    <title lang="pt">Crime Selvagem</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416020000 -0300" stop="20200416024800 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416024800 -0300" stop="20200416033600 -0300" channel="Discovery Theater">
-    <title lang="pt">Mulheres na Mina</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416033600 -0300" stop="20200416042400 -0300" channel="Discovery Theater">
-    <title lang="pt">Expedições Extremas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416042400 -0300" stop="20200416051200 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca ao Extremo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416051200 -0300" stop="20200416060000 -0300" channel="Discovery Theater">
-    <title lang="pt">Jeff Corwin em Ação</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416060000 -0300" stop="20200416064800 -0300" channel="Discovery Theater">
-    <title lang="pt">Crime Selvagem</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416064800 -0300" stop="20200416073600 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416073600 -0300" stop="20200416082400 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416082400 -0300" stop="20200416091200 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416091200 -0300" stop="20200416100000 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416100000 -0300" stop="20200416104800 -0300" channel="Discovery Theater">
-    <title lang="pt">As Travessias de Jeff Corwin</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416104800 -0300" stop="20200416113600 -0300" channel="Discovery Theater">
-    <title lang="pt">As Travessias de Jeff Corwin</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416113600 -0300" stop="20200416122400 -0300" channel="Discovery Theater">
-    <title lang="pt">Mistérios no Museu</title>
-    <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200416122400 -0300" stop="20200416131200 -0300" channel="Discovery Theater">
-    <title lang="pt">Grandes Missões da NASA</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416131200 -0300" stop="20200416140000 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416140000 -0300" stop="20200416144800 -0300" channel="Discovery Theater">
-    <title lang="pt">Megaconstruções</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416144800 -0300" stop="20200416153600 -0300" channel="Discovery Theater">
-    <title lang="pt">Detonadores</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416153600 -0300" stop="20200416162400 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416162400 -0300" stop="20200416171200 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca - Perigo no Ar</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416171200 -0300" stop="20200416180000 -0300" channel="Discovery Theater">
-    <title lang="pt">Sobreviventes do Gelo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416180000 -0300" stop="20200416184800 -0300" channel="Discovery Theater">
-    <title lang="pt">Detonadores</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416184800 -0300" stop="20200416193600 -0300" channel="Discovery Theater">
-    <title lang="pt">Caçando Trufas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416193600 -0300" stop="20200416202400 -0300" channel="Discovery Theater">
-    <title lang="pt">Rota Perigosa</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416202400 -0300" stop="20200416211200 -0300" channel="Discovery Theater">
-    <title lang="pt">Supercaminhões</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416211200 -0300" stop="20200416220000 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416220000 -0300" stop="20200416224800 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416224800 -0300" stop="20200416233600 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200416233600 -0300" stop="20200417000000 -0300" channel="Discovery Theater">
-    <title lang="pt">A Supercâmera</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417000000 -0300" stop="20200417002400 -0300" channel="Discovery Theater">
-    <title lang="pt">A Supercâmera</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417002400 -0300" stop="20200417004800 -0300" channel="Discovery Theater">
-    <title lang="pt">Aventureiros da Montanha</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417004800 -0300" stop="20200417011200 -0300" channel="Discovery Theater">
-    <title lang="pt">Aventureiros da Montanha</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417011200 -0300" stop="20200417020000 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417020000 -0300" stop="20200417024800 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417024800 -0300" stop="20200417033600 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417033600 -0300" stop="20200417042400 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417042400 -0300" stop="20200417044800 -0300" channel="Discovery Theater">
-    <title lang="pt">A Supercâmera</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417044800 -0300" stop="20200417051200 -0300" channel="Discovery Theater">
-    <title lang="pt">A Supercâmera</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417051200 -0300" stop="20200417053600 -0300" channel="Discovery Theater">
-    <title lang="pt">Aventureiros da Montanha</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417053600 -0300" stop="20200417060000 -0300" channel="Discovery Theater">
-    <title lang="pt">Aventureiros da Montanha</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417060000 -0300" stop="20200417064800 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417064800 -0300" stop="20200417073600 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417073600 -0300" stop="20200417082400 -0300" channel="Discovery Theater">
-    <title lang="pt">Mulheres na Mina</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417082400 -0300" stop="20200417091200 -0300" channel="Discovery Theater">
-    <title lang="pt">Expedições Extremas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417091200 -0300" stop="20200417100000 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca ao Extremo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417100000 -0300" stop="20200417104800 -0300" channel="Discovery Theater">
-    <title lang="pt">Jeff Corwin em Ação</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417104800 -0300" stop="20200417113600 -0300" channel="Discovery Theater">
-    <title lang="pt">Crime Selvagem</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417113600 -0300" stop="20200417122400 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417122400 -0300" stop="20200417131200 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417131200 -0300" stop="20200417140000 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417140000 -0300" stop="20200417144800 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417144800 -0300" stop="20200417153600 -0300" channel="Discovery Theater">
-    <title lang="pt">As Travessias de Jeff Corwin</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417153600 -0300" stop="20200417162400 -0300" channel="Discovery Theater">
-    <title lang="pt">As Travessias de Jeff Corwin</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417162400 -0300" stop="20200417171200 -0300" channel="Discovery Theater">
-    <title lang="pt">Mistérios no Museu</title>
-    <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200417171200 -0300" stop="20200417180000 -0300" channel="Discovery Theater">
-    <title lang="pt">Grandes Missões da NASA</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417180000 -0300" stop="20200417184800 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417184800 -0300" stop="20200417193600 -0300" channel="Discovery Theater">
-    <title lang="pt">Megaconstruções</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417193600 -0300" stop="20200417200000 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200417200000 -0300" stop="20200417202400 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200417202400 -0300" stop="20200417211200 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417211200 -0300" stop="20200417220000 -0300" channel="Discovery Theater">
-    <title lang="pt">Popular Science: Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417220000 -0300" stop="20200417224800 -0300" channel="Discovery Theater">
-    <title lang="pt">Popular Science: Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200417224800 -0300" stop="20200418002400 -0300" channel="Discovery Theater">
-    <title lang="pt">Discovery Atlas: China</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418002400 -0300" stop="20200418011200 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418011200 -0300" stop="20200418020000 -0300" channel="Discovery Theater">
-    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418020000 -0300" stop="20200418024800 -0300" channel="Discovery Theater">
-    <title lang="pt">Popular Science: Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418024800 -0300" stop="20200418033600 -0300" channel="Discovery Theater">
-    <title lang="pt">Popular Science: Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418033600 -0300" stop="20200418051200 -0300" channel="Discovery Theater">
-    <title lang="pt">Discovery Atlas: China</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418051200 -0300" stop="20200418060000 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418060000 -0300" stop="20200418064800 -0300" channel="Discovery Theater">
-    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418064800 -0300" stop="20200418073600 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418073600 -0300" stop="20200418082400 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418082400 -0300" stop="20200418091200 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418091200 -0300" stop="20200418093600 -0300" channel="Discovery Theater">
-    <title lang="pt">A Supercâmera</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418093600 -0300" stop="20200418100000 -0300" channel="Discovery Theater">
-    <title lang="pt">A Supercâmera</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418100000 -0300" stop="20200418102400 -0300" channel="Discovery Theater">
-    <title lang="pt">Aventureiros da Montanha</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418102400 -0300" stop="20200418104800 -0300" channel="Discovery Theater">
-    <title lang="pt">Aventureiros da Montanha</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418104800 -0300" stop="20200418113600 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418113600 -0300" stop="20200418122400 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418122400 -0300" stop="20200418131200 -0300" channel="Discovery Theater">
-    <title lang="pt">Mulheres na Mina</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418131200 -0300" stop="20200418140000 -0300" channel="Discovery Theater">
-    <title lang="pt">Expedições Extremas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418140000 -0300" stop="20200418144800 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca ao Extremo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418144800 -0300" stop="20200418153600 -0300" channel="Discovery Theater">
-    <title lang="pt">Jeff Corwin em Ação</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418153600 -0300" stop="20200418162400 -0300" channel="Discovery Theater">
-    <title lang="pt">Crime Selvagem</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418162400 -0300" stop="20200418171200 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418171200 -0300" stop="20200418180000 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418180000 -0300" stop="20200418184800 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418184800 -0300" stop="20200418193600 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418193600 -0300" stop="20200418200000 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200418200000 -0300" stop="20200418202400 -0300" channel="Discovery Theater">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
-  </programme>
-  <programme start="20200418202400 -0300" stop="20200418211200 -0300" channel="Discovery Theater">
-    <title lang="pt">As Travessias de Jeff Corwin</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418211200 -0300" stop="20200418220000 -0300" channel="Discovery Theater">
-    <title lang="pt">Criadores de Sonhos</title>
-    <category lang="pt">Séries/Comportamento</category>
-  </programme>
-  <programme start="20200418220000 -0300" stop="20200418224800 -0300" channel="Discovery Theater">
-    <title lang="pt">Sibéria - Vida no Gelo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418224800 -0300" stop="20200418233600 -0300" channel="Discovery Theater">
-    <title lang="pt">Ideias para salvar o Planeta</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200418233600 -0300" stop="20200419002400 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419002400 -0300" stop="20200419011200 -0300" channel="Discovery Theater">
-    <title lang="pt">Corpo Humano - Testando os Limites</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419011200 -0300" stop="20200419020000 -0300" channel="Discovery Theater">
-    <title lang="pt">Rota Perigosa</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419020000 -0300" stop="20200419024800 -0300" channel="Discovery Theater">
-    <title lang="pt">Criadores de Sonhos</title>
-    <category lang="pt">Séries/Comportamento</category>
-  </programme>
-  <programme start="20200419024800 -0300" stop="20200419033600 -0300" channel="Discovery Theater">
-    <title lang="pt">Sibéria - Vida no Gelo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419033600 -0300" stop="20200419042400 -0300" channel="Discovery Theater">
-    <title lang="pt">Ideias para salvar o Planeta</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419042400 -0300" stop="20200419051200 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419051200 -0300" stop="20200419060000 -0300" channel="Discovery Theater">
-    <title lang="pt">Corpo Humano - Testando os Limites</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419060000 -0300" stop="20200419064800 -0300" channel="Discovery Theater">
-    <title lang="pt">Rota Perigosa</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419064800 -0300" stop="20200419073600 -0300" channel="Discovery Theater">
-    <title lang="pt">Popular Science: Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419073600 -0300" stop="20200419082400 -0300" channel="Discovery Theater">
-    <title lang="pt">Popular Science: Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419082400 -0300" stop="20200419100000 -0300" channel="Discovery Theater">
-    <title lang="pt">Discovery Atlas: China</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419100000 -0300" stop="20200419104800 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419104800 -0300" stop="20200419113600 -0300" channel="Discovery Theater">
-    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419113600 -0300" stop="20200419122400 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419122400 -0300" stop="20200419131200 -0300" channel="Discovery Theater">
-    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419131200 -0300" stop="20200419140000 -0300" channel="Discovery Theater">
-    <title lang="pt">Megacargas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419140000 -0300" stop="20200419142400 -0300" channel="Discovery Theater">
-    <title lang="pt">A Supercâmera</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419142400 -0300" stop="20200419144800 -0300" channel="Discovery Theater">
-    <title lang="pt">A Supercâmera</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419144800 -0300" stop="20200419151200 -0300" channel="Discovery Theater">
-    <title lang="pt">Aventureiros da Montanha</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419151200 -0300" stop="20200419153600 -0300" channel="Discovery Theater">
-    <title lang="pt">Aventureiros da Montanha</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419153600 -0300" stop="20200419162400 -0300" channel="Discovery Theater">
-    <title lang="pt">O Mundo do Futuro</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419162400 -0300" stop="20200419171200 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca: A Última Fronteira</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419171200 -0300" stop="20200419180000 -0300" channel="Discovery Theater">
-    <title lang="pt">Mulheres na Mina</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419180000 -0300" stop="20200419184800 -0300" channel="Discovery Theater">
-    <title lang="pt">Expedições Extremas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419184800 -0300" stop="20200419193600 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca ao Extremo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419193600 -0300" stop="20200419202400 -0300" channel="Discovery Theater">
-    <title lang="pt">Jeff Corwin em Ação</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419202400 -0300" stop="20200419211200 -0300" channel="Discovery Theater">
-    <title lang="pt">Crime Selvagem</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419211200 -0300" stop="20200419220000 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca - Perigo no Ar</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419220000 -0300" stop="20200419224800 -0300" channel="Discovery Theater">
-    <title lang="pt">Sobreviventes do Gelo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419224800 -0300" stop="20200419233600 -0300" channel="Discovery Theater">
-    <title lang="pt">Resgate no Everest</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200419233600 -0300" stop="20200420002400 -0300" channel="Discovery Theater">
-    <title lang="pt">Caçando Trufas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413162400 -0300" stop="20200413171200 -0300" channel="Discovery Science">
-    <title lang="pt">Caçadores de Tempestades 2008</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413171200 -0300" stop="20200413180000 -0300" channel="Discovery Science">
-    <title lang="pt">Sobrevivente Geek</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200413180000 -0300" stop="20200413184800 -0300" channel="Discovery Science">
@@ -9721,12 +8857,792 @@
     <title lang="pt">O Inexplorado, com Justin Fornal</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200413162900 -0300" stop="20200413171700 -0300" channel="Discovery Turbo">
-    <title lang="pt">Texas Metal</title>
+  <programme start="20200413180000 -0300" stop="20200413184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200413171700 -0300" stop="20200413180500 -0300" channel="Discovery Turbo">
-    <title lang="pt">Texas Metal</title>
+  <programme start="20200413184800 -0300" stop="20200413191200 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200413191200 -0300" stop="20200413193600 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200413193600 -0300" stop="20200413200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200413200000 -0300" stop="20200413202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200413202400 -0300" stop="20200413211200 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200413211200 -0300" stop="20200413220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios no Museu</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200413220000 -0300" stop="20200413224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200413224800 -0300" stop="20200413233600 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200413233600 -0300" stop="20200414002400 -0300" channel="Discovery Theater">
+    <title lang="pt">Megaconstruções</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414002400 -0300" stop="20200414011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414011200 -0300" stop="20200414020000 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414020000 -0300" stop="20200414024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios no Museu</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200414024800 -0300" stop="20200414033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414033600 -0300" stop="20200414042400 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414042400 -0300" stop="20200414051200 -0300" channel="Discovery Theater">
+    <title lang="pt">Megaconstruções</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414051200 -0300" stop="20200414060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414060000 -0300" stop="20200414064800 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414064800 -0300" stop="20200414073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca - Perigo no Ar</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414073600 -0300" stop="20200414082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Sobreviventes do Gelo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414082400 -0300" stop="20200414091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414091200 -0300" stop="20200414100000 -0300" channel="Discovery Theater">
+    <title lang="pt">Caçando Trufas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414100000 -0300" stop="20200414104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414104800 -0300" stop="20200414113600 -0300" channel="Discovery Theater">
+    <title lang="pt">Supercaminhões</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414113600 -0300" stop="20200414131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200414131200 -0300" stop="20200414140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Ideias para Salvar o Planeta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414140000 -0300" stop="20200414144800 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414144800 -0300" stop="20200414153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Corpo Humano - Testando os Limites</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414153600 -0300" stop="20200414162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414162400 -0300" stop="20200414171200 -0300" channel="Discovery Theater">
+    <title lang="pt">A Bíblia: Mistérios Revelados</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414171200 -0300" stop="20200414180000 -0300" channel="Discovery Theater">
+    <title lang="pt">A Bíblia: Mistérios Revelados</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414180000 -0300" stop="20200414184800 -0300" channel="Discovery Theater">
+    <title lang="pt">A Bíblia: Mistérios Revelados</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414184800 -0300" stop="20200414193600 -0300" channel="Discovery Theater">
+    <title lang="pt">Resgate no Everest</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414193600 -0300" stop="20200414200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200414200000 -0300" stop="20200414202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200414202400 -0300" stop="20200414211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414211200 -0300" stop="20200414220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414220000 -0300" stop="20200414224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414224800 -0300" stop="20200414233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200414233600 -0300" stop="20200415002400 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415002400 -0300" stop="20200415011200 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415011200 -0300" stop="20200415020000 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415020000 -0300" stop="20200415024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415024800 -0300" stop="20200415033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415033600 -0300" stop="20200415042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415042400 -0300" stop="20200415051200 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415051200 -0300" stop="20200415060000 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415060000 -0300" stop="20200415064800 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415064800 -0300" stop="20200415073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios no Museu</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200415073600 -0300" stop="20200415082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415082400 -0300" stop="20200415091200 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415091200 -0300" stop="20200415100000 -0300" channel="Discovery Theater">
+    <title lang="pt">Megaconstruções</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415100000 -0300" stop="20200415104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415104800 -0300" stop="20200415113600 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415113600 -0300" stop="20200415122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca - Perigo no Ar</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415122400 -0300" stop="20200415131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Sobreviventes do Gelo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415131200 -0300" stop="20200415140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415140000 -0300" stop="20200415144800 -0300" channel="Discovery Theater">
+    <title lang="pt">Caçando Trufas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415144800 -0300" stop="20200415153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415153600 -0300" stop="20200415162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Supercaminhões</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415162400 -0300" stop="20200415180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200415180000 -0300" stop="20200415184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Ideias para Salvar o Planeta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415184800 -0300" stop="20200415193600 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415193600 -0300" stop="20200415200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200415200000 -0300" stop="20200415202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200415202400 -0300" stop="20200415211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415211200 -0300" stop="20200415220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415220000 -0300" stop="20200415224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Mulheres na Mina</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415224800 -0300" stop="20200415233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Expedições Extremas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200415233600 -0300" stop="20200416002400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416002400 -0300" stop="20200416011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Jeff Corwin em Ação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416011200 -0300" stop="20200416020000 -0300" channel="Discovery Theater">
+    <title lang="pt">Crime Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416020000 -0300" stop="20200416024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416024800 -0300" stop="20200416033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Mulheres na Mina</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416033600 -0300" stop="20200416042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Expedições Extremas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416042400 -0300" stop="20200416051200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416051200 -0300" stop="20200416060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Jeff Corwin em Ação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416060000 -0300" stop="20200416064800 -0300" channel="Discovery Theater">
+    <title lang="pt">Crime Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416064800 -0300" stop="20200416073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416073600 -0300" stop="20200416082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416082400 -0300" stop="20200416091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416091200 -0300" stop="20200416100000 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416100000 -0300" stop="20200416104800 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416104800 -0300" stop="20200416113600 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416113600 -0300" stop="20200416122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios no Museu</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200416122400 -0300" stop="20200416131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416131200 -0300" stop="20200416140000 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416140000 -0300" stop="20200416144800 -0300" channel="Discovery Theater">
+    <title lang="pt">Megaconstruções</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416144800 -0300" stop="20200416153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416153600 -0300" stop="20200416162400 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416162400 -0300" stop="20200416171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca - Perigo no Ar</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416171200 -0300" stop="20200416180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Sobreviventes do Gelo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416180000 -0300" stop="20200416184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Detonadores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416184800 -0300" stop="20200416193600 -0300" channel="Discovery Theater">
+    <title lang="pt">Caçando Trufas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416193600 -0300" stop="20200416202400 -0300" channel="Discovery Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416202400 -0300" stop="20200416211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Supercaminhões</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416211200 -0300" stop="20200416220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416220000 -0300" stop="20200416224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416224800 -0300" stop="20200416233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200416233600 -0300" stop="20200417000000 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417000000 -0300" stop="20200417002400 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417002400 -0300" stop="20200417004800 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417004800 -0300" stop="20200417011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417011200 -0300" stop="20200417020000 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417020000 -0300" stop="20200417024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417024800 -0300" stop="20200417033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417033600 -0300" stop="20200417042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417042400 -0300" stop="20200417044800 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417044800 -0300" stop="20200417051200 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417051200 -0300" stop="20200417053600 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417053600 -0300" stop="20200417060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417060000 -0300" stop="20200417064800 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417064800 -0300" stop="20200417073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417073600 -0300" stop="20200417082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Mulheres na Mina</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417082400 -0300" stop="20200417091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Expedições Extremas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417091200 -0300" stop="20200417100000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417100000 -0300" stop="20200417104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Jeff Corwin em Ação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417104800 -0300" stop="20200417113600 -0300" channel="Discovery Theater">
+    <title lang="pt">Crime Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417113600 -0300" stop="20200417122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417122400 -0300" stop="20200417131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417131200 -0300" stop="20200417140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417140000 -0300" stop="20200417144800 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417144800 -0300" stop="20200417153600 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417153600 -0300" stop="20200417162400 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417162400 -0300" stop="20200417171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Mistérios no Museu</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200417171200 -0300" stop="20200417180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Grandes Missões da NASA</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417180000 -0300" stop="20200417184800 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417184800 -0300" stop="20200417193600 -0300" channel="Discovery Theater">
+    <title lang="pt">Megaconstruções</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417193600 -0300" stop="20200417200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200417200000 -0300" stop="20200417202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200417202400 -0300" stop="20200417211200 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417211200 -0300" stop="20200417220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417220000 -0300" stop="20200417224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200417224800 -0300" stop="20200418002400 -0300" channel="Discovery Theater">
+    <title lang="pt">Discovery Atlas: China</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418002400 -0300" stop="20200418011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418011200 -0300" stop="20200418020000 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418020000 -0300" stop="20200418024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418024800 -0300" stop="20200418033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418033600 -0300" stop="20200418051200 -0300" channel="Discovery Theater">
+    <title lang="pt">Discovery Atlas: China</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418051200 -0300" stop="20200418060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418060000 -0300" stop="20200418064800 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418064800 -0300" stop="20200418073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418073600 -0300" stop="20200418082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418082400 -0300" stop="20200418091200 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418091200 -0300" stop="20200418093600 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418093600 -0300" stop="20200418100000 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418100000 -0300" stop="20200418102400 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418102400 -0300" stop="20200418104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418104800 -0300" stop="20200418113600 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418113600 -0300" stop="20200418122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418122400 -0300" stop="20200418131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Mulheres na Mina</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418131200 -0300" stop="20200418140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Expedições Extremas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418140000 -0300" stop="20200418144800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418144800 -0300" stop="20200418153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Jeff Corwin em Ação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418153600 -0300" stop="20200418162400 -0300" channel="Discovery Theater">
+    <title lang="pt">Crime Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418162400 -0300" stop="20200418171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418171200 -0300" stop="20200418180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418180000 -0300" stop="20200418184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418184800 -0300" stop="20200418193600 -0300" channel="Discovery Theater">
+    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418193600 -0300" stop="20200418200000 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200418200000 -0300" stop="20200418202400 -0300" channel="Discovery Theater">
+    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200418202400 -0300" stop="20200418211200 -0300" channel="Discovery Theater">
+    <title lang="pt">As Travessias de Jeff Corwin</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418211200 -0300" stop="20200418220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200418220000 -0300" stop="20200418224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Sibéria - Vida no Gelo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418224800 -0300" stop="20200418233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Ideias para salvar o Planeta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200418233600 -0300" stop="20200419002400 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419002400 -0300" stop="20200419011200 -0300" channel="Discovery Theater">
+    <title lang="pt">Corpo Humano - Testando os Limites</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419011200 -0300" stop="20200419020000 -0300" channel="Discovery Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419020000 -0300" stop="20200419024800 -0300" channel="Discovery Theater">
+    <title lang="pt">Criadores de Sonhos</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200419024800 -0300" stop="20200419033600 -0300" channel="Discovery Theater">
+    <title lang="pt">Sibéria - Vida no Gelo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419033600 -0300" stop="20200419042400 -0300" channel="Discovery Theater">
+    <title lang="pt">Ideias para salvar o Planeta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419042400 -0300" stop="20200419051200 -0300" channel="Discovery Theater">
+    <title lang="pt">West Coast Customs Berlim</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419051200 -0300" stop="20200419060000 -0300" channel="Discovery Theater">
+    <title lang="pt">Corpo Humano - Testando os Limites</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419060000 -0300" stop="20200419064800 -0300" channel="Discovery Theater">
+    <title lang="pt">Rota Perigosa</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419064800 -0300" stop="20200419073600 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419073600 -0300" stop="20200419082400 -0300" channel="Discovery Theater">
+    <title lang="pt">Popular Science: Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419082400 -0300" stop="20200419100000 -0300" channel="Discovery Theater">
+    <title lang="pt">Discovery Atlas: China</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419100000 -0300" stop="20200419104800 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419104800 -0300" stop="20200419113600 -0300" channel="Discovery Theater">
+    <title lang="pt">Polônia: Operação Linhas Aéreas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419113600 -0300" stop="20200419122400 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419122400 -0300" stop="20200419131200 -0300" channel="Discovery Theater">
+    <title lang="pt">Garimpeiros de Ruínas: Melhores Negócios</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419131200 -0300" stop="20200419140000 -0300" channel="Discovery Theater">
+    <title lang="pt">Megacargas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419140000 -0300" stop="20200419142400 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419142400 -0300" stop="20200419144800 -0300" channel="Discovery Theater">
+    <title lang="pt">A Supercâmera</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419144800 -0300" stop="20200419151200 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419151200 -0300" stop="20200419153600 -0300" channel="Discovery Theater">
+    <title lang="pt">Aventureiros da Montanha</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419153600 -0300" stop="20200419162400 -0300" channel="Discovery Theater">
+    <title lang="pt">O Mundo do Futuro</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419162400 -0300" stop="20200419171200 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419171200 -0300" stop="20200419180000 -0300" channel="Discovery Theater">
+    <title lang="pt">Mulheres na Mina</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419180000 -0300" stop="20200419184800 -0300" channel="Discovery Theater">
+    <title lang="pt">Expedições Extremas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419184800 -0300" stop="20200419193600 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca ao Extremo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419193600 -0300" stop="20200419202400 -0300" channel="Discovery Theater">
+    <title lang="pt">Jeff Corwin em Ação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419202400 -0300" stop="20200419211200 -0300" channel="Discovery Theater">
+    <title lang="pt">Crime Selvagem</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419211200 -0300" stop="20200419220000 -0300" channel="Discovery Theater">
+    <title lang="pt">Alasca - Perigo no Ar</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419220000 -0300" stop="20200419224800 -0300" channel="Discovery Theater">
+    <title lang="pt">Sobreviventes do Gelo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419224800 -0300" stop="20200419233600 -0300" channel="Discovery Theater">
+    <title lang="pt">Resgate no Everest</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200419233600 -0300" stop="20200420002400 -0300" channel="Discovery Theater">
+    <title lang="pt">Caçando Trufas</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200413180500 -0300" stop="20200413185500 -0300" channel="Discovery Turbo">
@@ -10532,26 +10448,6 @@
   <programme start="20200419235600 -0300" stop="20200420004800 -0300" channel="Discovery Turbo">
     <title lang="pt">Joias Sobre Rodas</title>
     <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413170000 -0300" stop="20200413173000 -0300" channel="Disney Channel">
-    <title lang="pt">A Casa Coruja</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413173000 -0300" stop="20200413174500 -0300" channel="Disney Channel">
-    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413174500 -0300" stop="20200413180000 -0300" channel="Disney Channel">
-    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413180000 -0300" stop="20200413181500 -0300" channel="Disney Channel">
-    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413181500 -0300" stop="20200413183000 -0300" channel="Disney Channel">
-    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200413183000 -0300" stop="20200413190000 -0300" channel="Disney Channel">
     <title lang="pt">Gabby Duran - Babá de Aliens</title>
@@ -11497,14 +11393,6 @@
     <title lang="pt">Gibby</title>
     <category lang="pt">Filme/Infantil</category>
   </programme>
-  <programme start="20200413170000 -0300" stop="20200413172500 -0300" channel="E! Entertainment">
-    <title lang="pt">Younger</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200413172500 -0300" stop="20200413175000 -0300" channel="E! Entertainment">
-    <title lang="pt">Dating #noFilter</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
   <programme start="20200413175000 -0300" stop="20200413184000 -0300" channel="E! Entertainment">
     <title lang="pt">Hollywood Medium with Tyler Henry</title>
     <category lang="pt">Séries/Reality Show</category>
@@ -12233,22 +12121,6 @@
     <title lang="pt">Alto Leblon - Garotas do Rio</title>
     <category lang="pt">Séries/Reality Show</category>
   </programme>
-  <programme start="20200413165600 -0300" stop="20200413171900 -0300" channel="Fox">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413171900 -0300" stop="20200413174200 -0300" channel="Fox">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413174200 -0300" stop="20200413180500 -0300" channel="Fox">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413180500 -0300" stop="20200413182800 -0300" channel="Fox">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
   <programme start="20200413182800 -0300" stop="20200413201300 -0300" channel="Fox">
     <title lang="pt">Um Suburbano Sortudo</title>
     <category lang="pt">Filme/Comédia</category>
@@ -12932,14 +12804,6 @@
   <programme start="20200419225000 -0300" stop="20200420012000 -0300" channel="Fox">
     <title lang="pt">Bad Boys II</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200413164000 -0300" stop="20200413172400 -0300" channel="Fox Life">
-    <title lang="pt">S.W.A.T.</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20200413172400 -0300" stop="20200413180600 -0300" channel="Fox Life">
-    <title lang="pt">Remedy</title>
-    <category lang="pt">Séries/Drama</category>
   </programme>
   <programme start="20200413180600 -0300" stop="20200413185000 -0300" channel="Fox Life">
     <title lang="pt">New Amsterdam</title>
@@ -17135,10 +16999,6 @@
     <title lang="pt">A Maldição da Chorona</title>
     <category lang="pt">Filme/Terror</category>
   </programme>
-  <programme start="20200413161500 -0300" stop="20200413182700 -0300" channel="HBO Family">
-    <title lang="pt">Sherlock Holmes</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
   <programme start="20200413182700 -0300" stop="20200413200000 -0300" channel="HBO Family">
     <title lang="pt">Holmes &amp; Watson</title>
     <category lang="pt">Filme/Comédia</category>
@@ -17494,10 +17354,6 @@
   <programme start="20200419222000 -0300" stop="20200420000100 -0300" channel="HBO Family">
     <title lang="pt">A-X-L: O Cão Robô</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200413160000 -0300" stop="20200413180500 -0300" channel="HBO Plus">
-    <title lang="pt">Podres de Ricos</title>
-    <category lang="pt">Filme/Comédia</category>
   </programme>
   <programme start="20200413180500 -0300" stop="20200413200500 -0300" channel="HBO Plus">
     <title lang="pt">Bingo: O Rei das Manhãs</title>
@@ -17910,18 +17766,6 @@
   <programme start="20200419234000 -0300" stop="20200420012000 -0300" channel="HBO Plus">
     <title lang="pt">Crimes em Happytime</title>
     <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200413170000 -0300" stop="20200413173000 -0300" channel="HBO Signature">
-    <title lang="pt">Sex and the City</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200413173000 -0300" stop="20200413180000 -0300" channel="HBO Signature">
-    <title lang="pt">Sex and the City</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200413180000 -0300" stop="20200413183000 -0300" channel="HBO Signature">
-    <title lang="pt">Sex and the City</title>
-    <category lang="pt">Séries/Comédia</category>
   </programme>
   <programme start="20200413183000 -0300" stop="20200413190000 -0300" channel="HBO Signature">
     <title lang="pt">Sex and the City</title>
@@ -18574,14 +18418,6 @@
   <programme start="20200419220000 -0300" stop="20200420001500 -0300" channel="HBO Signature">
     <title lang="pt">Até o Fim</title>
     <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20200413171500 -0300" stop="20200413174000 -0300" channel="History">
-    <title lang="pt">Louco Por Carros</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413174000 -0300" stop="20200413180500 -0300" channel="History">
-    <title lang="pt">Louco Por Carros</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200413180500 -0300" stop="20200413190000 -0300" channel="History">
     <title lang="pt">Investigadores da História</title>
@@ -19607,10 +19443,6 @@
     <title lang="pt">Investigadores da História</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200413171000 -0300" stop="20200413180000 -0300" channel="Investigação Discovery">
-    <title lang="pt">O Mistério do Palhaço Assassino</title>
-    <category lang="pt">Séries/Investigação</category>
-  </programme>
   <programme start="20200413180000 -0300" stop="20200413185000 -0300" channel="Investigação Discovery">
     <title lang="pt">O Mistério do Palhaço Assassino</title>
     <category lang="pt">Séries/Investigação</category>
@@ -20383,10 +20215,6 @@
     <title lang="pt">Câmera Crime</title>
     <category lang="pt">Séries/Investigação</category>
   </programme>
-  <programme start="20200413163500 -0300" stop="20200413181000 -0300" channel="Max">
-    <title lang="pt">Compartilhar</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
   <programme start="20200413181000 -0300" stop="20200413184500 -0300" channel="Max">
     <title lang="pt">Elas No Singular</title>
     <category lang="pt">Séries/Documentário</category>
@@ -20731,10 +20559,6 @@
     <title lang="pt">O Pacto</title>
     <category lang="pt">Filme/Terror</category>
   </programme>
-  <programme start="20200413163500 -0300" stop="20200413183000 -0300" channel="Max Prime">
-    <title lang="pt">Gringo: Vivo ou Morto</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
   <programme start="20200413183000 -0300" stop="20200413201000 -0300" channel="Max Prime">
     <title lang="pt">Os Penetras</title>
     <category lang="pt">Filme/Comédia</category>
@@ -21062,10 +20886,6 @@
   <programme start="20200419220500 -0300" stop="20200420002400 -0300" channel="Max Prime">
     <title lang="pt">Isolados</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200413155500 -0300" stop="20200413174000 -0300" channel="Max Up">
-    <title lang="pt">A Gaivota</title>
-    <category lang="pt">Filme/Drama</category>
   </programme>
   <programme start="20200413174000 -0300" stop="20200413192000 -0300" channel="Max Up">
     <title lang="pt">Esperar Para Sempre</title>
@@ -21411,10 +21231,6 @@
     <title lang="pt">Larry Crowne - O Amor está de Volta</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200413162500 -0300" stop="20200413183000 -0300" channel="Megapix">
-    <title lang="pt">Homem-Aranha</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
   <programme start="20200413183000 -0300" stop="20200413202500 -0300" channel="Megapix">
     <title lang="pt">Assassino A Preço Fixo 2: A Ressurreição</title>
     <category lang="pt">Filme/Ação</category>
@@ -21714,14 +21530,6 @@
   <programme start="20200419233500 -0300" stop="20200420015500 -0300" channel="Megapix">
     <title lang="pt">Os Mercenários 3</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200413163000 -0300" stop="20200413173000 -0300" channel="MTV">
-    <title lang="pt">De Férias Com o Ex Brasil</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200413173000 -0300" stop="20200413183000 -0300" channel="MTV">
-    <title lang="pt">MTV Hits</title>
-    <category lang="pt">Variedades/Musical</category>
   </programme>
   <programme start="20200413183000 -0300" stop="20200413201000 -0300" channel="MTV">
     <title lang="pt">MTV Top 20</title>
@@ -22298,14 +22106,6 @@
   <programme start="20200419232000 -0300" stop="20200420002000 -0300" channel="MTV">
     <title lang="pt">De Férias Com o Ex Brasil</title>
     <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200413171500 -0300" stop="20200413180000 -0300" channel="Multishow">
-    <title lang="pt">Big Brother Brasil 20</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200413180000 -0300" stop="20200413182900 -0300" channel="Multishow">
-    <title lang="pt">Lugar Incomum</title>
-    <category lang="pt">Séries/Viagem</category>
   </programme>
   <programme start="20200413182900 -0300" stop="20200413190000 -0300" channel="Multishow">
     <title lang="pt">Chaves</title>
@@ -23231,14 +23031,6 @@
     <title lang="pt">Vai Que Cola</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200413164600 -0300" stop="20200413173000 -0300" channel="Nat Geo Wild">
-    <title lang="pt">Clínica Animal</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413173000 -0300" stop="20200413181500 -0300" channel="Nat Geo Wild">
-    <title lang="pt">Clube da Luta Animal</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200413181500 -0300" stop="20200413190000 -0300" channel="Nat Geo Wild">
     <title lang="pt">Caçadores da África</title>
     <category lang="pt">Séries/Documentário</category>
@@ -24041,14 +23833,6 @@
   </programme>
   <programme start="20200419231500 -0300" stop="20200420000000 -0300" channel="Nat Geo Wild">
     <title lang="pt">A Cobra Mortal da África</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413171200 -0300" stop="20200413173400 -0300" channel="NatGeo">
-    <title lang="pt">Em Busca das Cobras</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413173400 -0300" stop="20200413175700 -0300" channel="NatGeo">
-    <title lang="pt">Em Busca das Cobras</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200413175700 -0300" stop="20200413184200 -0300" channel="NatGeo">
@@ -24886,18 +24670,6 @@
   <programme start="20200419232000 -0300" stop="20200420001000 -0300" channel="NatGeo">
     <title lang="pt">Planeta Hostil</title>
     <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200413170000 -0300" stop="20200413173000 -0300" channel="Nickelodeon">
-    <title lang="pt">The Loud House</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413173000 -0300" stop="20200413180000 -0300" channel="Nickelodeon">
-    <title lang="pt">The Loud House</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413180000 -0300" stop="20200413183000 -0300" channel="Nickelodeon">
-    <title lang="pt">The Loud House</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200413183000 -0300" stop="20200413190000 -0300" channel="Nickelodeon">
     <title lang="pt">Henry Danger</title>
@@ -26051,10 +25823,6 @@
     <title lang="pt">Henry Danger</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200413161000 -0300" stop="20200413181500 -0300" channel="Paramount Channel">
-    <title lang="pt">As Palavras</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
   <programme start="20200413181500 -0300" stop="20200413203000 -0300" channel="Paramount Channel">
     <title lang="pt">O Lado Bom da Vida</title>
     <category lang="pt">Filme/Drama</category>
@@ -26442,10 +26210,6 @@
   <programme start="20200419232500 -0300" stop="20200420010000 -0300" channel="Paramount Channel">
     <title lang="pt">Jogos Mortais - O Final</title>
     <category lang="pt">Filme/Terror</category>
-  </programme>
-  <programme start="20200413170000 -0300" stop="20200413180000 -0300" channel="Sony">
-    <title lang="pt">The Good Doctor: O Bom Doutor</title>
-    <category lang="pt">Séries/Drama</category>
   </programme>
   <programme start="20200413180000 -0300" stop="20200413190000 -0300" channel="Sony">
     <title lang="pt">The Good Doctor: O Bom Doutor</title>
@@ -26954,10 +26718,6 @@
   <programme start="20200419230000 -0300" stop="20200420003500 -0300" channel="Sony">
     <title lang="pt">The Four Brasil</title>
     <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200413162900 -0300" stop="20200413180100 -0300" channel="Space">
-    <title lang="pt">Padre</title>
-    <category lang="pt">Filme/Suspense</category>
   </programme>
   <programme start="20200413180100 -0300" stop="20200413195100 -0300" channel="Space">
     <title lang="pt">Resident Evil 6: O Capítulo Final</title>
@@ -27723,10 +27483,6 @@
     <title lang="pt">VT de Eventos</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200413162000 -0300" stop="20200413182500 -0300" channel="Studio Universal">
-    <title lang="pt">Amor Além da Vida</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
   <programme start="20200413182500 -0300" stop="20200413191500 -0300" channel="Studio Universal">
     <title lang="pt">Jungle Pilot</title>
     <category lang="pt">Séries/Ação</category>
@@ -28078,10 +27834,6 @@
   <programme start="20200419220500 -0300" stop="20200420001000 -0300" channel="Studio Universal">
     <title lang="pt">A Colina Escarlate</title>
     <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20200413162500 -0300" stop="20200413182000 -0300" channel="SyFy">
-    <title lang="pt">Mythica: O Darkspore</title>
-    <category lang="pt">Filme/Aventura</category>
   </programme>
   <programme start="20200413182000 -0300" stop="20200413185000 -0300" channel="SyFy">
     <title lang="pt">Cinelab Aprendiz</title>
@@ -29287,10 +29039,6 @@
     <title lang="pt">Doentes de Amor</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200413154000 -0300" stop="20200413175500 -0300" channel="Telecine Action">
-    <title lang="pt">Piratas Do Caribe - A Vingança De Salazar</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
   <programme start="20200413175500 -0300" stop="20200413193500 -0300" channel="Telecine Action">
     <title lang="pt">Um Dia Para Viver</title>
     <category lang="pt">Filme/Ação</category>
@@ -29599,10 +29347,6 @@
     <title lang="pt">Red 2 - Aposentados e Ainda Mais Perigosos</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200413153500 -0300" stop="20200413172000 -0300" channel="Telecine Cult">
-    <title lang="pt">A Mosca</title>
-    <category lang="pt">Filme/Ficção</category>
-  </programme>
   <programme start="20200413172000 -0300" stop="20200413190500 -0300" channel="Telecine Cult">
     <title lang="pt">Diamantino</title>
     <category lang="pt">Variedades/Diversos</category>
@@ -29902,14 +29646,6 @@
   <programme start="20200419235000 -0300" stop="20200420021500 -0300" channel="Telecine Cult">
     <title lang="pt">Sessão Tripla Javier Bardem: Antes do Anoitecer</title>
     <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200413155000 -0300" stop="20200413175000 -0300" channel="Telecine Fun">
-    <title lang="pt">Uma Noite no Museu</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200413175000 -0300" stop="20200413180500 -0300" channel="Telecine Fun">
-    <title lang="pt">Lou</title>
-    <category lang="pt">Filme/Animação</category>
   </programme>
   <programme start="20200413180500 -0300" stop="20200413201500 -0300" channel="Telecine Fun">
     <title lang="pt">Os Incríveis 2</title>
@@ -30251,10 +29987,6 @@
     <title lang="pt">Harry Potter e o Cálice de Fogo</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200413161000 -0300" stop="20200413181000 -0300" channel="Telecine Pipoca">
-    <title lang="pt">Maze Runner: Correr ou Morrer</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
   <programme start="20200413181000 -0300" stop="20200413202000 -0300" channel="Telecine Pipoca">
     <title lang="pt">Kong: A Ilha da Caveira</title>
     <category lang="pt">Filme/Ação</category>
@@ -30550,10 +30282,6 @@
   <programme start="20200419220000 -0300" stop="20200420000500 -0300" channel="Telecine Pipoca">
     <title lang="pt">Alita: Anjo de Combate</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200413160500 -0300" stop="20200413180000 -0300" channel="Telecine Premium">
-    <title lang="pt">A Minha Garota Para Sempre</title>
-    <category lang="pt">Filme/Romance</category>
   </programme>
   <programme start="20200413180000 -0300" stop="20200413195000 -0300" channel="Telecine Premium">
     <title lang="pt">O Poder e o Impossível</title>
@@ -30859,10 +30587,6 @@
     <title lang="pt">Rocketman</title>
     <category lang="pt">Filme/Musical</category>
   </programme>
-  <programme start="20200413153500 -0300" stop="20200413180000 -0300" channel="Telecine Touch">
-    <title lang="pt">Apollo 13 - do Desastre ao Triunfo</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
   <programme start="20200413180000 -0300" stop="20200413200000 -0300" channel="Telecine Touch">
     <title lang="pt">Como Eu Era Antes De Você</title>
     <category lang="pt">Filme/Drama</category>
@@ -31162,14 +30886,6 @@
   <programme start="20200419220000 -0300" stop="20200420002000 -0300" channel="Telecine Touch">
     <title lang="pt">O Guarda-costas (1992)</title>
     <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200413162200 -0300" stop="20200413180000 -0300" channel="TLC">
-    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200413180000 -0300" stop="20200413182500 -0300" channel="TLC">
-    <title lang="pt">À Brasileira - Um Passeio Cultural e Gastronômico</title>
-    <category lang="pt">Séries/Culinária</category>
   </programme>
   <programme start="20200413182500 -0300" stop="20200413185000 -0300" channel="TLC">
     <title lang="pt">Tempero na Mochila</title>
@@ -31883,10 +31599,6 @@
     <title lang="pt">Chegou Honey Boo Boo!</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200413170400 -0300" stop="20200413183200 -0300" channel="TNT">
-    <title lang="pt">Aviões 2: Heróis do Fogo ao Resgate</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
   <programme start="20200413183200 -0300" stop="20200413204900 -0300" channel="TNT">
     <title lang="pt">Meu Passado Me Condena 2</title>
     <category lang="pt">Filme/Comédia</category>
@@ -32250,14 +31962,6 @@
   <programme start="20200419234900 -0300" stop="20200420024600 -0300" channel="TNT">
     <title lang="pt">Django Livre</title>
     <category lang="pt">Filme/Western</category>
-  </programme>
-  <programme start="20200413164700 -0300" stop="20200413173200 -0300" channel="TNT Séries">
-    <title lang="pt">The Mentalist</title>
-    <category lang="pt">Séries/Suspense</category>
-  </programme>
-  <programme start="20200413173200 -0300" stop="20200413182000 -0300" channel="TNT Séries">
-    <title lang="pt">The Mentalist</title>
-    <category lang="pt">Séries/Suspense</category>
   </programme>
   <programme start="20200413182000 -0300" stop="20200413190500 -0300" channel="TNT Séries">
     <title lang="pt">The Mentalist</title>
@@ -33062,18 +32766,6 @@
   <programme start="20200419234900 -0300" stop="20200420003300 -0300" channel="TNT Séries">
     <title lang="pt">The Mentalist</title>
     <category lang="pt">Séries/Suspense</category>
-  </programme>
-  <programme start="20200413170000 -0300" stop="20200413173000 -0300" channel="Tooncast">
-    <title lang="pt">Os Mistérios de Frajola e Piu Piu</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413173000 -0300" stop="20200413180000 -0300" channel="Tooncast">
-    <title lang="pt">Zuzubalândia</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200413180000 -0300" stop="20200413183000 -0300" channel="Tooncast">
-    <title lang="pt">Batman do Futuro</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200413183000 -0300" stop="20200413190000 -0300" channel="Tooncast">
     <title lang="pt">Os Jovens Titãs</title>
@@ -34167,10 +33859,6 @@
     <title lang="pt">O Laboratório de Dexter</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200413170000 -0300" stop="20200413180000 -0300" channel="VH1">
-    <title lang="pt">Music Box</title>
-    <category lang="pt">Séries/Musical</category>
-  </programme>
   <programme start="20200413180000 -0300" stop="20200413190000 -0300" channel="VH1">
     <title lang="pt">Top Hits</title>
     <category lang="pt">Séries/Musical</category>
@@ -34770,14 +34458,6 @@
   <programme start="20200419230000 -0300" stop="20200420000000 -0300" channel="VH1">
     <title lang="pt">Music Box</title>
     <category lang="pt">Séries/Musical</category>
-  </programme>
-  <programme start="20200413170000 -0300" stop="20200413180000 -0300" channel="VIVA">
-    <title lang="pt">Toma Lá, Dá Cá</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200413180000 -0300" stop="20200413183000 -0300" channel="VIVA">
-    <title lang="pt">A Grande Família</title>
-    <category lang="pt">Séries/Comédia</category>
   </programme>
   <programme start="20200413183000 -0300" stop="20200413193000 -0300" channel="VIVA">
     <title lang="pt">Zorra Total</title>
@@ -35650,10 +35330,6 @@
   <programme start="20200419234500 -0300" stop="20200420010000 -0300" channel="VIVA">
     <title lang="pt">Engraçadinha...Seus Amores e Seus Pecados</title>
     <category lang="pt">Séries/Ficção</category>
-  </programme>
-  <programme start="20200413154100 -0300" stop="20200413180000 -0300" channel="Warner Channel">
-    <title lang="pt">Sete Vidas</title>
-    <category lang="pt">Filme/Drama</category>
   </programme>
   <programme start="20200413180000 -0300" stop="20200413191900 -0300" channel="Warner Channel">
     <title lang="pt">Uma Noite em Sampa</title>
