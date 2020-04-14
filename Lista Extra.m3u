@@ -1,9 +1,12 @@
 #EXTM3U
 #EXTINF:0,BIS
 https://stream2.canais.info/a/hls/bis.m3u8?expires=1586903818&token=2afb8fe323a85ab3d9bb04914bb5ddb8
-#EXTINF:0,Boomerang
-https://stream2.canais.info/a/hls/boomerang.m3u8?expires=1586905132&token=9c7a8197c7c72ff53a6712f2ccb77702
-#EXTINF:0,MTV Live
 https://stream2.canais.info/a/hls/mtvlive.m3u8?expires=1586904321&token=a2ccc5320638c9d31537a174f4d66caa
-#EXTINF:0,Lifetime
-https://stream2.canais.info/a/hls/lifetime.m3u8?expires=1586904378&token=eb10a846c4f793149f58471d4d6bcbc6
+#EXTINF:0,USA Network
+http://cdnak19.cast4u.info/channels/2/10802.m3u8
+#EXTINF:0,The CW
+https://bks40001.gttstreamtv.com/bpk-token/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaagd1eivbret0ig/0000670/CW-audio_128052_eng=128000-video=800000.m3u8
+#EXTINF:0,BBC Earth
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586963615~acl=%2f*~data=hdntl~hmac=3b07ae85d054c9f4378e452acd33196b9acf037adab297f9820f04ecf6f0419e/master_2000.m3u8
+#EXTINF:0,NBC
+https://bks40002.gttstreamtv.com/bpk-token/kaceaeei5iaaaaaaakg1pxdaaaaaaaaaaaakdcvivbrodbzi/0000431/NBC-audio_128052_eng=128000-video=2800000.m3u8
