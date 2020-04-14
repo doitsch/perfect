@@ -9,12 +9,8 @@ https://bks40001.gttstreamtv.com/bpk-token/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaagd
 #EXTINF:0,BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586963615~acl=%2f*~data=hdntl~hmac=3b07ae85d054c9f4378e452acd33196b9acf037adab297f9820f04ecf6f0419e/master_2000.m3u8
 #EXTINF:0,NBC
-https://bks40002.gttstreamtv.com/bpk-token/kaceaeei5iaaaaaaakg1pxdaaaaaaaaaaaakdcvivbrodbzi/0000431/NBC-audio_128052_eng=128000-video=2800000.m3u8
-#EXTINF:0,The CW
-http://docs-7.gogleusercontent.host/live/b1knpp8t/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDM6NDY6MzcgUE0maGFzaF92YWx1ZT15anZTN0t5SEtuUEE0cEpJV2VMVnVRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
-#EXTINF:0,CBS
-http://docs-8.gogleusercontent.host/live/sckmw792/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDM6NDk6MjAgUE0maGFzaF92YWx1ZT12MUpzSHpGb1J4SzQxa2U5MXpsR0d3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
-#EXTINF:0,BBC America
-http://docs-7.gogleusercontent.host/live/ptzpub1w/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDM6NTA6NDQgUE0maGFzaF92YWx1ZT1MUEZJR0M2NTFKTUVVajAvM21tQi9nPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
-#EXTINF:0,Science Channel
-http://docs-1.gogleusercontent.host/live/kkom89r3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDM6NTE6NDAgUE0maGFzaF92YWx1ZT1WQndGOXV0VzJvNlpINncycmR3SVR3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
+https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/ec15f6a7-ff7e-4255-91d6-045888134aff:SCL/variant/98383d315bae12ef6695278700bce70f/bandwidth/2821805.m3u8
+#EXTINF:0,BBC One
+https://edge-1288-ch-gv.filmon.com/live/14.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fa6851507cf4b15f10a386c718bf86dfccc86959e0b7148f9db9a80bc4c825efa0ac99615a445dcddcd11818305ea464c345db7c16f22a7c20ce0c470f5868af0354cc211adc558e8775b0644b8ee6f852eada6eb21043cd35a2ac64672c4a6e06b5058094a19f184ecad38628b1dec0f9fc543481deba71
+m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
