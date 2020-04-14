@@ -10,3 +10,11 @@ https://bks40001.gttstreamtv.com/bpk-token/kaceaeei5aaaaaaaaec1pxdaaaaaaaaaaaagd
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586963615~acl=%2f*~data=hdntl~hmac=3b07ae85d054c9f4378e452acd33196b9acf037adab297f9820f04ecf6f0419e/master_2000.m3u8
 #EXTINF:0,NBC
 https://bks40002.gttstreamtv.com/bpk-token/kaceaeei5iaaaaaaakg1pxdaaaaaaaaaaaakdcvivbrodbzi/0000431/NBC-audio_128052_eng=128000-video=2800000.m3u8
+#EXTINF:0,The CW
+http://docs-7.gogleusercontent.host/live/b1knpp8t/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDM6NDY6MzcgUE0maGFzaF92YWx1ZT15anZTN0t5SEtuUEE0cEpJV2VMVnVRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
+#EXTINF:0,CBS
+http://docs-8.gogleusercontent.host/live/sckmw792/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDM6NDk6MjAgUE0maGFzaF92YWx1ZT12MUpzSHpGb1J4SzQxa2U5MXpsR0d3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
+#EXTINF:0,BBC America
+http://docs-7.gogleusercontent.host/live/ptzpub1w/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDM6NTA6NDQgUE0maGFzaF92YWx1ZT1MUEZJR0M2NTFKTUVVajAvM21tQi9nPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
+#EXTINF:0,Science Channel
+http://docs-1.gogleusercontent.host/live/kkom89r3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIwIDM6NTE6NDAgUE0maGFzaF92YWx1ZT1WQndGOXV0VzJvNlpINncycmR3SVR3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
