@@ -12,5 +12,5 @@ https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=
 https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/ec15f6a7-ff7e-4255-91d6-045888134aff:SCL/variant/98383d315bae12ef6695278700bce70f/bandwidth/2821805.m3u8
 #EXTINF:0,BBC One
 https://edge-1288-ch-gv.filmon.com/live/14.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3fa6851507cf4b15f10a386c718bf86dfccc86959e0b7148f9db9a80bc4c825efa0ac99615a445dcddcd11818305ea464c345db7c16f22a7c20ce0c470f5868af0354cc211adc558e8775b0644b8ee6f852eada6eb21043cd35a2ac64672c4a6e06b5058094a19f184ecad38628b1dec0f9fc543481deba71
-m2o
+#EXTINF:0,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
