@@ -11,17 +11,17 @@ https://stream2.canais.info/a/hls/animalplanet.m3u8
 https://stream2.canais.info/a/hls/bis.m3u8
 #EXTINF:0 type="stream" channelId="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" audio-track="por" subtitles="por" tvg-country="BR", Boomerang
 https://stream2.canais.info/a/hls/boomerang.m3u8
-#EXTINF:0 type="stream" channelId="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon Network
+#EXTINF:0 type="stream" channelId="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 https://stream2.canais.info/a/hls/cartoon.m3u8
-#EXTINF:0 type="stream" channelId="1326" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-white_filled__02-10-17.svg", Cinemax
+#EXTINF:0 type="stream" channelId="1326" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/300px-Cinemax_LA.png", Cinemax
 https://stream2.canais.info/a/hls/cinemax.m3u8
-#EXTINF:0 type="stream" channelId="1190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg", Comedy Central
+#EXTINF:0 type="stream" channelId="1190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png", Comedy Central
 https://stream2.canais.info/a/hls/comedycentral.m3u8
 #EXTINF:0 type="stream" channelId="57" tvg-logo="https://img2.gratispng.com/20180508/rlw/kisspng-discovery-channel-logo-television-show-discovery-5af174a2ae26d1.7705781415257734747133.jpg", Discovery Channel
 https://stream2.canais.info/a/hls/discovery.m3u8
 #EXTINF:0 type="stream" channelId="2841" tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Civilization
 https://stream2.canais.info/a/hls/discoverycivilization.m3u8
-#EXTINF:0 type="stream" channelId="2620" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/138/original/pic_home_health.png?1522179349" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Home and Health
+#EXTINF:0 type="stream" channelId="2620" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Home and Health
 https://stream2.canais.info/a/hls/discoveryhomeihealth.m3u8
 #EXTINF:0 type="stream" channelId="2505" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" audio-track="por" subtitles="por" tvg-country="BR", Discovery Kids
 https://stream2.canais.info/a/hls/discoverykids.m3u8
@@ -133,7 +133,7 @@ https://stream2.canais.info/a/hls/universal.m3u8
 https://stream2.canais.info/a/hls/viva.m3u8
 #EXTINF:0 type="stream" channelId="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png", Warner Channel
 https://stream2.canais.info/a/hls/warner.m3u8
-#EXTINF:0 type="stream" channelId="3229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/300px-USA_Network_logo_%282016%29.svg.png" audio-track="eng" subtitles="eng" tvg-country="US", Item 68
+#EXTINF:0 type="stream" channelId="3229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/300px-USA_Network_logo_%282016%29.svg.png" audio-track="eng" subtitles="eng" tvg-country="US", USA Network
 http://cdnak19.cast4u.info/channels/2/10802.m3u8
 #EXTINF:0 type="stream" channelId="2285" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg", m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
