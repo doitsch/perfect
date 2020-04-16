@@ -1,135 +1,139 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="1208" audio-track="por" subtitles="por" tvg-country="BR", AeE
+#EXTINF:0 type="stream" channelId="1208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", AeE
 https://stream2.canais.info/a/hls/aie.m3u8
-#EXTINF:0 type="stream" channelId="2501" audio-track="por" subtitles="por" tvg-country="BR" background="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png", AMC
+#EXTINF:0 type="stream" channelId="2501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" audio-track="por" subtitles="por" tvg-country="BR", AMC
 https://stream2.canais.info/a/hls/amc.m3u8
-#EXTINF:0 type="stream" channelId="2246" audio-track="por" subtitles="por" tvg-country="br" size="Medium" background="https://www.tvmagazine.com.br/imagens/icones/600/axnb.png", AXN
+#EXTINF:0 type="stream" channelId="2246" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/axnb.png" audio-track="por" subtitles="por" tvg-country="br" size="Medium", AXN
 https://stream2.canais.info/a/hls/axn.m3u8
-#EXTINF:0 type="stream" channelId="50" audio-track="por" subtitles="por" tvg-country="BR", Animal Planet
+#EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Animal Planet
 https://stream2.canais.info/a/hls/animalplanet.m3u8
-#EXTINF:0 type="stream" channelId="2718" audio-track="por" subtitles="por" tvg-country="BR", BIS
+#EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" audio-track="por" subtitles="por" tvg-country="BR", BIS
 https://stream2.canais.info/a/hls/bis.m3u8
-#EXTINF:0 type="stream" channelId="321" audio-track="por" subtitles="por" tvg-country="BR", Boomerang
+#EXTINF:0 type="stream" channelId="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" audio-track="por" subtitles="por" tvg-country="BR", Boomerang
 https://stream2.canais.info/a/hls/boomerang.m3u8
-#EXTINF:0 type="stream" channelId="40", Cartoon Network
+#EXTINF:0 type="stream" channelId="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", Cartoon Network
 https://stream2.canais.info/a/hls/cartoon.m3u8
-#EXTINF:0 type="stream" channelId="1326", Cinemax
+#EXTINF:0 type="stream" channelId="1326" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-white_filled__02-10-17.svg", Cinemax
 https://stream2.canais.info/a/hls/cinemax.m3u8
-#EXTINF:0 type="stream" channelId="1190", Comedy Central
+#EXTINF:0 type="stream" channelId="1190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg", Comedy Central
 https://stream2.canais.info/a/hls/comedycentral.m3u8
-#EXTINF:0 type="stream" channelId="57", Discovery Channel
+#EXTINF:0 type="stream" channelId="57" tvg-logo="https://img2.gratispng.com/20180508/rlw/kisspng-discovery-channel-logo-television-show-discovery-5af174a2ae26d1.7705781415257734747133.jpg", Discovery Channel
 https://stream2.canais.info/a/hls/discovery.m3u8
-#EXTINF:0 type="stream" channelId="2841" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Civilization
+#EXTINF:0 type="stream" channelId="2841" tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Civilization
 https://stream2.canais.info/a/hls/discoverycivilization.m3u8
-#EXTINF:0 type="stream" channelId="2620" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Home and Health
+#EXTINF:0 type="stream" channelId="2620" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/138/original/pic_home_health.png?1522179349" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Home and Health
 https://stream2.canais.info/a/hls/discoveryhomeihealth.m3u8
-#EXTINF:0 type="stream" channelId="2505" audio-track="por" subtitles="por" tvg-country="BR", Discovery Kids
+#EXTINF:0 type="stream" channelId="2505" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" audio-track="por" subtitles="por" tvg-country="BR", Discovery Kids
 https://stream2.canais.info/a/hls/discoverykids.m3u8
-#EXTINF:0 type="stream" channelId="58" audio-track="por" subtitles="por" tvg-country="br" size="Medium", Discovery Science
+#EXTINF:0 type="stream" channelId="1508" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png" audio-track="por" subtitles="por" tvg-country="br" size="Medium", Discovery Science
 https://stream2.canais.info/a/hls/discoverysience.m3u8
-#EXTINF:0 type="stream" channelId="2558", Discovery Theater
+#EXTINF:0 type="stream" channelId="2558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1024px-2015_Discovery_theater_HD_logo.svg.png", Discovery Theater
 https://stream2.canais.info/a/hls/discoverytheater.m3u8
-#EXTINF:0 type="stream" channelId="2840", Discovery Turbo
+#EXTINF:0 type="stream" channelId="2840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", Discovery Turbo
 https://stream2.canais.info/a/hls/discoveryturbo.m3u8
-#EXTINF:0 type="stream" channelId="2839", Discovery World
+#EXTINF:0 type="stream" channelId="2839" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png", Discovery World
 https://stream2.canais.info/a/hls/discoveryworld.m3u8
-#EXTINF:0 type="stream" channelId="19" audio-track="por" subtitles="por" tvg-country="BR", Disney Channel
+#EXTINF:0 type="stream" channelId="19" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/disney-logo.png" audio-track="por" subtitles="por" tvg-country="BR", Disney Channel
 https://stream2.canais.info/a/hls/disney.m3u8
-#EXTINF:0 type="stream" channelId="1198" audio-track="por" subtitles="por" tvg-country="BR", Disney XD
+#EXTINF:0 type="stream" channelId="1198" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" audio-track="por" subtitles="por" tvg-country="BR", Disney XD
 https://stream2.canais.info/a/hls/disneyxd.m3u8
-#EXTINF:0 type="stream" channelId="1188", E! Entertainment
+#EXTINF:0 type="stream" channelId="1188" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/75px-E%21_logo_2012.png", E! Entertainment
 https://stream2.canais.info/a/hls/canale.m3u8
-#EXTINF:0 type="stream" channelId="1244", Food Network
+#EXTINF:0 type="stream" channelId="1244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Food_Network_-_Logo_2016.png/300px-Food_Network_-_Logo_2016.png", Food Network
 https://stream2.canais.info/a/hls/foodnetwork.m3u8
-#EXTINF:0 type="stream" channelId="177", Fox
+#EXTINF:0 type="stream" channelId="177" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/300px-FOX_wordmark.svg.png", Fox
 https://stream2.canais.info/a/hls/fox.m3u8
-#EXTINF:0 type="stream" channelId="178", Fox Life
+#EXTINF:0 type="stream" channelId="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/375px-Fox_life_logo.svg.png", Fox Life
 https://stream2.canais.info/a/hls/foxlife.m3u8
-#EXTINF:0 type="stream" channelId="2604", Fox Premium 1
+#EXTINF:0 type="stream" channelId="2604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/225px-FOXPremium2018.png", Fox Premium 1
 https://stream2.canais.info/a/hls/foxpremium1.m3u8
-#EXTINF:0 type="stream" channelId="2607", Fox Premium 2
+#EXTINF:0 type="stream" channelId="2607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/225px-FOXPremium2018.png", Fox Premium 2
 https://stream2.canais.info/a/hls/foxpremium2.m3u8
-#EXTINF:0 type="stream" channelId="1303" audio-track="por" subtitles="por" tvg-country="BR", FX
+#EXTINF:0 type="stream" channelId="1303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/300px-FX_International_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", FX
 https://stream2.canais.info/a/hls/fx.m3u8
-#EXTINF:0 type="stream" channelId="2432" audio-track="pt" subtitles="pt" tvg-country="BR", Globo
+#EXTINF:0 type="stream" channelId="2432" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/225px-Logotipo_da_Rede_Globo.png" audio-track="pt" subtitles="pt" tvg-country="BR", Globo
 https://stream2.canais.info/a/hls/bobosp.m3u8
-#EXTINF:0 type="stream" channelId="2408" audio-track="por" subtitles="por" tvg-country="BR", HBO
+#EXTINF:0 type="stream" channelId="2408" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/225px-HBO_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", HBO
 https://stream2.canais.info/a/hls/hbo.m3u8
-#EXTINF:0 type="stream" channelId="935", HBO 2
+#EXTINF:0 type="stream" channelId="935" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/300px-HBO2_logo.png", HBO 2
 https://stream2.canais.info/a/hls/hbo2.m3u8
-#EXTINF:0 type="stream" channelId="2584", HBO Family
+#EXTINF:0 type="stream" channelId="2584" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/300px-HBO_Family_logo.png", HBO Family
 https://stream2.canais.info/a/hls/hbofamily.m3u8
-#EXTINF:0 type="stream" channelId="2585", HBO Plus
-https://stream2.canais.info/a/hls/hboplus.m3u8
-#EXTINF:0 type="stream" channelId="2583", HBO Signature
-https://stream2.canais.info/a/hls/hbosignature.m3u8
-#EXTINF:0 type="stream" channelId="1455" audio-track="pt-br" subtitles="pt-br" tvg-country="BR", History
-https://stream2.canais.info/a/hls/history.m3u8
-#EXTINF:0 type="stream" channelId="1201", History 2
-https://stream2.canais.info/a/hls/history2.m3u8
-#EXTINF:0 type="stream" channelId="2586", Investigação Discovery
-https://stream2.canais.info/a/hls/investigacaodiscovery.m3u8
-#EXTINF:0 type="stream" channelId="237", MTV
-https://stream2.canais.info/a/hls/mtv.m3u8
-#EXTINF:0 type="stream" channelId="361", Max
+#EXTINF:0 type="stream" channelId="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/300px-HBO_Mundi.svg.png", HBO Mundi
 https://stream2.canais.info/a/hls/max.m3u8
-#EXTINF:0 type="stream" channelId="2587", Max Prime
-https://stream2.canais.info/a/hls/maxprime.m3u8
-#EXTINF:0 type="stream" channelId="361", Max UP
+#EXTINF:0 type="stream" channelId="2585" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/300px-Logohboplus2019.svg.png", HBO Plus
+https://stream2.canais.info/a/hls/hboplus.m3u8
+#EXTINF:0 type="stream" channelId="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/300px-HBO_Pop.svg.png", HBO Pop
 https://stream2.canais.info/a/hls/maxup.m3u8
-#EXTINF:0 type="stream" channelId="2588", Megapix
+#EXTINF:0 type="stream" channelId="2583" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/300px-HBO_Signature.svg.png", HBO Signature
+https://stream2.canais.info/a/hls/hbosignature.m3u8
+#EXTINF:0 type="stream" channelId="2587" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/300px-HBO_Xtreme.svg.png", HBO Xtreme
+https://stream2.canais.info/a/hls/maxprime.m3u8
+#EXTINF:0 type="stream" channelId="1455" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" audio-track="pt-br" subtitles="pt-br" tvg-country="BR", History
+https://stream2.canais.info/a/hls/history.m3u8
+#EXTINF:0 type="stream" channelId="1201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png", History 2
+https://stream2.canais.info/a/hls/history2.m3u8
+#EXTINF:0 type="stream" channelId="2586" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/300px-Investiga%C3%A7%C3%A3o_Discovery_1.png", Investigação Discovery
+https://stream2.canais.info/a/hls/investigacaodiscovery.m3u8
+#EXTINF:0 type="stream" channelId="2588" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png", Megapix
 https://stream2.canais.info/a/hls/megapix.m3u8
-#EXTINF:0 type="stream" channelId="2590", Multishow
+#EXTINF:0 type="stream" channelId="237" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/300px-MTV_Logo_2010.svg.png", MTV
+https://stream2.canais.info/a/hls/mtv.m3u8
+#EXTINF:0 type="stream" channelId="2590" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/300px-Multishow.png", Multishow
 https://stream2.canais.info/a/hls/multishow.m3u8
-#EXTINF:0 type="stream" channelId="3778" audio-track="pt" subtitles="pt" tvg-country="br", Nat Geo Kids
+#EXTINF:0 type="stream" channelId="3778" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/300px-Natgeo_Kids_logo.svg.png" audio-track="pt" subtitles="pt" tvg-country="br", Nat Geo Kids
 https://stream2.canais.info/a/hls/natgeokids.m3u8
-#EXTINF:0 type="stream" channelId="56", NatGeo
+#EXTINF:0 type="stream" channelId="56" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/300px-Natgeologo.svg.png", NatGeo
 https://stream2.canais.info/a/hls/natgeo.m3u8
-#EXTINF:0 type="stream" channelId="164", Nat Geo WILD
+#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/300px-National_Geographic_Wild_logo.svg.png", Nat Geo WILD
 https://stream2.canais.info/a/hls/natgeowild.m3u8
-#EXTINF:0 type="stream" channelId="41", Nickelodeon
+#EXTINF:0 type="stream" channelId="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/300px-Nickelodeon_2009_logo.svg.png", Nickelodeon
 https://stream2.canais.info/a/hls/nick.m3u8
-#EXTINF:0 type="stream" channelId="1719" audio-track="pt" subtitles="pt" tvg-country="BR", Paramount Channel
+#EXTINF:0 type="stream" channelId="1719" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ParamountNetwork.png/300px-ParamountNetwork.png" audio-track="pt" subtitles="pt" tvg-country="BR", Paramount Channel
 https://stream2.canais.info/a/hls/paramount.m3u8
-#EXTINF:0 type="stream" channelId="1595", Retro Music
+#EXTINF:0 type="stream" channelId="1595" tvg-logo="http://retro.monstermedia.cz/wp-content/uploads/2017/09/retro-logo-bile2.png", Retro Music
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w190541904.m3u8
-#EXTINF:0 type="stream" channelId="530", Sony
+#EXTINF:0 type="stream" channelId="530" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/300px-Sony_Channel_Logo.png", Sony
 https://stream2.canais.info/a/hls/sony.m3u8
-#EXTINF:0 type="stream" channelId="383", Space
+#EXTINF:0 type="stream" channelId="383" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/300px-SpaceLogo.svg.png", Space
 https://stream2.canais.info/a/hls/space.m3u8
-#EXTINF:0 type="stream" channelId="2600" group="Esporte", SporTV 2
-https://stream2.canais.info/a/hls/sportv2.m3u8
-#EXTINF:0 type="stream" channelId="2625", Studio Universal
+#EXTINF:0 type="stream" channelId="2600" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/375px-SporTV_2_2017_logo.svg.png", SporTV 2
+https://origin.topcanais.com/mylive/sportv2hd/video.m3u8
+#EXTINF:0 type="stream" channelId="2625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/375px-StudioUniversal2016.png", Studio Universal
 https://stream2.canais.info/a/hls/studiouniversal.m3u8
-#EXTINF:0 type="stream" channelId="73", SyFy
+#EXTINF:0 type="stream" channelId="73" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/300px-SYFY.svg.png", SyFy
 https://stream2.canais.info/a/hls/syfy.m3u8
-#EXTINF:0 type="stream" channelId="2602", TBS
+#EXTINF:0 type="stream" channelId="2602" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/300px-TBS_logo_2016.svg.png", TBS
 https://stream2.canais.info/a/hls/tbs.m3u8
-#EXTINF:0 type="stream" channelId="895", TCM
+#EXTINF:0 type="stream" channelId="895" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/375px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
 https://stream2.canais.info/a/hls/tcm.m3u8
-#EXTINF:0 type="stream" channelId="2603", Telecine Action
+#EXTINF:0 type="stream" channelId="2603" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/300px-Telecine_Action_2.png", Telecine Action
 https://stream2.canais.info/a/hls/telecineaction.m3u8
-#EXTINF:0 type="stream" channelId="2605", Telecine Cult
+#EXTINF:0 type="stream" channelId="2605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Telecine_Cult_2.png", Telecine Cult
 https://stream2.canais.info/a/hls/telecinecult.m3u8
-#EXTINF:0 type="stream" channelId="2606" audio-track="por" subtitles="por" tvg-country="BR", Telecine Fun
+#EXTINF:0 type="stream" channelId="2606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telecine-fun-2.png/300px-Telecine-fun-2.png" audio-track="por" subtitles="por" tvg-country="BR", Telecine Fun
 https://stream2.canais.info/a/hls/telecinefun.m3u8
-#EXTINF:0 type="stream" channelId="2608", Telecine Pipoca
+#EXTINF:0 type="stream" channelId="2608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telecine_Pipoca_2.png/300px-Telecine_Pipoca_2.png", Telecine Pipoca
 https://stream2.canais.info/a/hls/telecinepipoca.m3u8
-#EXTINF:0 type="stream" channelId="2610", Telecine Premium
+#EXTINF:0 type="stream" channelId="2610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/375px-Telecine_Premium.png", Telecine Premium
 https://stream2.canais.info/a/hls/telecinepremium.m3u8
-#EXTINF:0 type="stream" channelId="2611", Telecine Touch
+#EXTINF:0 type="stream" channelId="2611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Telecine_Touch_3.png/375px-Telecine_Touch_3.png", Telecine Touch
 https://stream2.canais.info/a/hls/telecinetouch.m3u8
-#EXTINF:0 type="stream" channelId="67", TLC
+#EXTINF:0 type="stream" channelId="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/375px-TLC_Logo.svg.png", TLC
 https://stream2.canais.info/a/hls/tlc.m3u8
-#EXTINF:0 type="stream" channelId="1052", TNT
+#EXTINF:0 type="stream" channelId="1052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/375px-TNT_Logo_2016.svg.png", TNT
 https://stream2.canais.info/a/hls/tnt.m3u8
-#EXTINF:0 type="stream" channelId="3797" audio-track="por" subtitles="por" tvg-country="BR", TNT Séries
+#EXTINF:0 type="stream" channelId="3797" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" audio-track="por" subtitles="por" tvg-country="BR", TNT Séries
 https://stream2.canais.info/a/hls/tntseries.m3u8
-#EXTINF:0 type="stream" channelId="2639", Tooncast
+#EXTINF:0 type="stream" channelId="2639" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/Tooncast.png/338px-Tooncast.png", Tooncast
 https://stream2.canais.info/a/hls/tooncast.m3u8
-#EXTINF:0 type="stream" channelId="187" audio-track="por" subtitles="por" tvg-country="BR", Universal Channel
+#EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/375px-Universal_TV_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Universal Channel
 https://stream2.canais.info/a/hls/universal.m3u8
-#EXTINF:0 type="stream" channelId="984", VIVA
+#EXTINF:0 type="stream" channelId="984" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/300px-Canal_Viva_2018_wordmark.svg.png", VIVA
 https://stream2.canais.info/a/hls/viva.m3u8
-#EXTINF:0 type="stream" channelId="2557", Warner Channel
+#EXTINF:0 type="stream" channelId="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png", Warner Channel
 https://stream2.canais.info/a/hls/warner.m3u8
+#EXTINF:0 type="stream" channelId="3229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/300px-USA_Network_logo_%282016%29.svg.png" audio-track="eng" subtitles="eng" tvg-country="US", Item 68
+http://cdnak19.cast4u.info/channels/2/10802.m3u8
+#EXTINF:0 type="stream" channelId="2285" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
