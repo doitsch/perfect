@@ -176,7 +176,7 @@
   </channel>
   <channel id="Nat Geo Kids">
     <display-name lang="pt">Nat Geo Kids</display-name>
-    <icon src="https://www.lineup.tv.br/canais/polishoptv.gif" />
+    <icon src="https://www.lineup.tv.br/canais/1579085513.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="Nickelodeon">
@@ -1466,10 +1466,6 @@
   <programme start="20200429223000 -0300" stop="20200430010500 -0300" channel="AMC">
     <title lang="pt">Questão de Honra</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200423082000 -0300" stop="20200423091100 -0300" channel="Animal Planet">
-    <title lang="pt">Patrulheiros da Natureza</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200423091100 -0300" stop="20200423100200 -0300" channel="Animal Planet">
     <title lang="pt">Meu Gato Endiabrado</title>
@@ -3710,14 +3706,6 @@
   <programme start="20200429230000 -0300" stop="20200430000000 -0300" channel="BIS">
     <title lang="pt">Versões</title>
     <category lang="pt">Variedades/Musical</category>
-  </programme>
-  <programme start="20200423090000 -0300" stop="20200423090900 -0300" channel="Boomerang">
-    <title lang="pt">Masha e o Urso</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200423090900 -0300" stop="20200423092300 -0300" channel="Boomerang">
-    <title lang="pt">Masha e o Urso</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200423092300 -0300" stop="20200423093000 -0300" channel="Boomerang">
     <title lang="pt">Masha e o Urso</title>
@@ -8335,10 +8323,6 @@
     <title lang="pt">Invasão a Casa Branca</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200423090000 -0300" stop="20200423091100 -0300" channel="Cartoon Network">
-    <title lang="pt">Drama Total Kids</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
   <programme start="20200423091100 -0300" stop="20200423092700 -0300" channel="Cartoon Network">
     <title lang="pt">Drama Total Kids</title>
     <category lang="pt">Séries/Animação</category>
@@ -12571,10 +12555,6 @@
     <title lang="pt">Uma Ladra Sem Limites</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200423082400 -0300" stop="20200423091200 -0300" channel="Discovery Channel">
-    <title lang="pt">Desafio em Dose Dupla</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200423091200 -0300" stop="20200423100000 -0300" channel="Discovery Channel">
     <title lang="pt">Desafio em Dose Dupla</title>
     <category lang="pt">Séries/Documentário</category>
@@ -13390,10 +13370,6 @@
   <programme start="20200429234300 -0300" stop="20200430003200 -0300" channel="Discovery Channel">
     <title lang="pt">Sobreviventes</title>
     <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200423082400 -0300" stop="20200423091200 -0300" channel="Discovery Civilization">
-    <title lang="pt">O Preço da Escalada</title>
-    <category lang="pt">Séries/Diversos</category>
   </programme>
   <programme start="20200423091200 -0300" stop="20200423100000 -0300" channel="Discovery Civilization">
     <title lang="pt">O Preço da Escalada</title>
@@ -15094,10 +15070,6 @@
   <programme start="20200429231400 -0300" stop="20200430000700 -0300" channel="Discovery Home and Health">
     <title lang="pt">Os Busbys + 5</title>
     <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200423080000 -0300" stop="20200423092000 -0300" channel="Discovery Kids">
-    <title lang="pt">Os Pinguins de Madagascar</title>
-    <category lang="pt">Filme/Animação</category>
   </programme>
   <programme start="20200423092000 -0300" stop="20200423094400 -0300" channel="Discovery Kids">
     <title lang="pt">Agente Binky Ao Resgate!</title>
@@ -18083,10 +18055,6 @@
     <title lang="pt">Miss Moon</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200423082400 -0300" stop="20200423091200 -0300" channel="Discovery Science">
-    <title lang="pt">Experiências Superloucas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200423091200 -0300" stop="20200423093600 -0300" channel="Discovery Science">
     <title lang="pt">O Segredo das Coisas</title>
     <category lang="pt">Séries/Documentário</category>
@@ -18979,10 +18947,6 @@
     <title lang="pt">Os Últimos Segredos de Houdini</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200423082400 -0300" stop="20200423091200 -0300" channel="Discovery Theater">
-    <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200423091200 -0300" stop="20200423100000 -0300" channel="Discovery Theater">
     <title lang="pt">Austin Stevens - Os Mais Perigosos</title>
     <category lang="pt">Séries/Documentário</category>
@@ -19834,10 +19798,6 @@
   <programme start="20200429233600 -0300" stop="20200430002400 -0300" channel="Discovery Theater">
     <title lang="pt">Monstros do Pântano</title>
     <category lang="pt">Séries/Aventura</category>
-  </programme>
-  <programme start="20200423082100 -0300" stop="20200423091100 -0300" channel="Discovery Turbo">
-    <title lang="pt">Oficinaço</title>
-    <category lang="pt">Séries/Competição</category>
   </programme>
   <programme start="20200423091100 -0300" stop="20200423093500 -0300" channel="Discovery Turbo">
     <title lang="pt">As Mecânicas</title>
@@ -30335,10 +30295,6 @@
     <title lang="pt">Cinema Especial: Frozen: Uma Aventura Congelante</title>
     <category lang="pt">Filme/Animação</category>
   </programme>
-  <programme start="20200423083000 -0300" stop="20200423092000 -0300" channel="History">
-    <title lang="pt">Alienígenas do Passado</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200423092000 -0300" stop="20200423101000 -0300" channel="History">
     <title lang="pt">Alienígenas do Passado</title>
     <category lang="pt">Séries/Documentário</category>
@@ -36079,10 +36035,6 @@
     <title lang="pt">MTV Movies</title>
     <category lang="pt">Séries/Cinema</category>
   </programme>
-  <programme start="20200423091000 -0300" stop="20200423091500 -0300" channel="Multishow">
-    <title lang="pt">Big Brother Brasil 20 - Rede BBB</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
   <programme start="20200423091500 -0300" stop="20200423100000 -0300" channel="Multishow">
     <title lang="pt">Big Brother Brasil 20 - Ao Vivo</title>
     <category lang="pt">Séries/Reality Show</category>
@@ -37062,10 +37014,6 @@
   <programme start="20200429230000 -0300" stop="20200430000000 -0300" channel="Multishow">
     <title lang="pt">Vai Que Cola Miami</title>
     <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200423083000 -0300" stop="20200423091500 -0300" channel="Nat Geo Wild">
-    <title lang="pt">Predadores Noturnos</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200423091500 -0300" stop="20200423100000 -0300" channel="Nat Geo Wild">
     <title lang="pt">Clube da Luta Animal</title>
@@ -38790,10 +38738,6 @@
   <programme start="20200429231500 -0300" stop="20200430001000 -0300" channel="NatGeo">
     <title lang="pt">Férias na Prisão: Crime e Punição</title>
     <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200423090000 -0300" stop="20200423093000 -0300" channel="Nickelodeon">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200423093000 -0300" stop="20200423100000 -0300" channel="Nickelodeon">
     <title lang="pt">É O Pônei</title>
@@ -42155,10 +42099,6 @@
     <title lang="pt">Zona Verde</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200423084500 -0300" stop="20200423093000 -0300" channel="SyFy">
-    <title lang="pt">Grimm</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
   <programme start="20200423093000 -0300" stop="20200423101500 -0300" channel="SyFy">
     <title lang="pt">Grimm</title>
     <category lang="pt">Séries/Drama</category>
@@ -42823,10 +42763,6 @@
     <title lang="pt">O Professor Aloprado 2 - A Família Klump</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
-  <programme start="20200423085200 -0300" stop="20200423091700 -0300" channel="TBS">
-    <title lang="pt">Reprovados</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20200423091700 -0300" stop="20200423100100 -0300" channel="TBS">
     <title lang="pt">Falling Skies</title>
     <category lang="pt">Séries/Ficção</category>
@@ -43435,10 +43371,6 @@
     <title lang="pt">Millennium - Os Homens Que Não Amavam As Mulheres</title>
     <category lang="pt">Filme/Suspense</category>
   </programme>
-  <programme start="20200423085700 -0300" stop="20200423092000 -0300" channel="TCM">
-    <title lang="pt">Mad About You</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20200423092000 -0300" stop="20200423094300 -0300" channel="TCM">
     <title lang="pt">Mad About You</title>
     <category lang="pt">Séries/Comédia</category>
@@ -43993,10 +43925,6 @@
   </programme>
   <programme start="20200429235300 -0300" stop="20200430020300 -0300" channel="TCM">
     <title lang="pt">Na Linha de Fogo</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200423074500 -0300" stop="20200423092500 -0300" channel="Telecine Action">
-    <title lang="pt">R.I.P.D. - Agentes Do Além</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20200423092500 -0300" stop="20200423110000 -0300" channel="Telecine Action">
@@ -47947,10 +47875,6 @@
     <title lang="pt">C.S.I</title>
     <category lang="pt">Séries/Policial</category>
   </programme>
-  <programme start="20200423090000 -0300" stop="20200423093000 -0300" channel="Tooncast">
-    <title lang="pt">O Laboratório de Dexter</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
   <programme start="20200423093000 -0300" stop="20200423100000 -0300" channel="Tooncast">
     <title lang="pt">Tom e Jerry</title>
     <category lang="pt">Séries/Animação</category>
@@ -50338,10 +50262,6 @@
   <programme start="20200429230000 -0300" stop="20200430000000 -0300" channel="VH1">
     <title lang="pt">Music Box</title>
     <category lang="pt">Séries/Musical</category>
-  </programme>
-  <programme start="20200423090000 -0300" stop="20200423093000 -0300" channel="VIVA">
-    <title lang="pt">Jeannie é um Gênio</title>
-    <category lang="pt">Séries/Aventura</category>
   </programme>
   <programme start="20200423093000 -0300" stop="20200423100000 -0300" channel="VIVA">
     <title lang="pt">Jeannie é um Gênio</title>
