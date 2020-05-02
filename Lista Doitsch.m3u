@@ -4,7 +4,7 @@ http://proxyts.canais.ink:8080/a/hls/aie.m3u8
 #EXTINF:0 type="stream" channelId="2501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" audio-track="por" subtitles="por" tvg-country="BR", AMC
 http://proxyts.canais.ink:8080/a/hls/amc.m3u8
 #EXTINF:0 type="stream" channelId="2246" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/axnb.png" audio-track="por" subtitles="por" tvg-country="br" size="Medium", AXN
-http://proxyts.canais.ink:8080/a/hls/axn.m3u8
+https://live.multicanais.com/mylive/axnsd/video.m3u8?md5=Tg6pq0V9r5YLbu5rqGFsLQ&expires=1588453908
 #EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Animal Planet
 http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
 #EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" audio-track="por" subtitles="por" tvg-country="BR", BIS
@@ -84,7 +84,7 @@ http://proxyts.canais.ink:8080/a/hls/multishow.m3u8
 #EXTINF:0 type="stream" channelId="3778" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/300px-Natgeo_Kids_logo.svg.png" audio-track="pt" subtitles="pt" tvg-country="br", Nat Geo Kids
 http://proxyts.canais.ink:8080/a/hls/natgeokids.m3u8
 #EXTINF:0 type="stream" channelId="56" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/300px-Natgeologo.svg.png", NatGeo
-http://proxyts.canais.ink:8080/a/hls/natgeo.m3u8
+https://live.multicanais.com/live/natsd/video.m3u8?md5=VMAQsFiO9jQPN7eVFoifHA&expires=1588453339
 #EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/300px-National_Geographic_Wild_logo.svg.png", Nat Geo WILD
 http://proxyts.canais.ink:8080/a/hls/natgeowild.m3u8
 #EXTINF:0 type="stream" channelId="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/300px-Nickelodeon_2009_logo.svg.png", Nickelodeon
