@@ -1,138 +1,138 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="1208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", AeE
-http://proxyts.canais.ink:8080/a/hls/aie.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_7858c8e47dea9ca2b74b0c4d9bc0b4a49158159f/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" audio-track="por" subtitles="por" tvg-country="BR", AMC
-http://proxyts.canais.ink:8080/a/hls/amc.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/amcbrasil_b7f5113f_d8dbc0b17f6058e7585679834ab89b090dc05c9e/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2246" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/axnb.png" audio-track="por" subtitles="por" tvg-country="br" size="Medium", AXN
-https://live.multicanais.com/mylive/axnsd/video.m3u8?md5=Tg6pq0V9r5YLbu5rqGFsLQ&expires=1588453908
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/axn_cb7a1d77_f7acfbd7301429e93b946cdafd1305e6799f81ab/playlist.m3u8
 #EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Animal Planet
-http://proxyts.canais.ink:8080/a/hls/animalplanet.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/animalplanet_e114c448_bcfaf09c74ca593193e5537d07a305254147f666/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" audio-track="por" subtitles="por" tvg-country="BR", BIS
-http://proxyts.canais.ink:8080/a/hls/bis.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/bis_53e56691_954f49be209e212d1cb35e775a2009637db77bf0/playlist.m3u8
 #EXTINF:0 type="stream" channelId="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" audio-track="por" subtitles="por" tvg-country="BR", Boomerang
-http://proxyts.canais.ink:8080/a/hls/boomerang.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_ed5d98dd8de65fc2a41cd0070266e8ad2f4201c1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
-http://proxyts.canais.ink:8080/a/hls/cartoon.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_0d28f65dcd4e7e10a4609a1047a37881a86b0151/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1326" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/300px-Cinemax_LA.png", Cinemax
-http://proxyts.canais.ink:8080/a/hls/cinemax.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_36ca9fb15323d943aedfcae1adb14e2476439205/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png", Comedy Central
-http://proxyts.canais.ink:8080/a/hls/comedycentral.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/comedycentral_17037754_e98f51986455ca3a05a0de65cd7e839f2ead3efd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="57" tvg-logo="https://img2.gratispng.com/20180508/rlw/kisspng-discovery-channel-logo-television-show-discovery-5af174a2ae26d1.7705781415257734747133.jpg", Discovery Channel
-http://proxyts.canais.ink:8080/a/hls/discovery.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverychannel_af3e1334_2dcf13bc569026cc9bcace3413527f8274c4a93b/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2841" tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Civilization
-http://proxyts.canais.ink:8080/a/hls/discoverycivilization.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverycivilization_2473f015_bea369d65dde7a81dc49976f517eb0995a290fa8/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2620" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Home and Health
-http://proxyts.canais.ink:8080/a/hls/discoveryhomeihealth.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_878ae829a27f67e49ae9f57f083919bd78bebf4c/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2505" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" audio-track="por" subtitles="por" tvg-country="BR", Discovery Kids
-http://proxyts.canais.ink:8080/a/hls/discoverykids.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_4207e54caca1d177fefa9446b9abafb9e27517bc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1508" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png" audio-track="por" subtitles="por" tvg-country="br" size="Medium", Discovery Science
-http://proxyts.canais.ink:8080/a/hls/discoverysience.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryscience_77c8184f_5542b45e30886834b49408f419d20b1d90e9a963/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1024px-2015_Discovery_theater_HD_logo.svg.png", Discovery Theater
-http://proxyts.canais.ink:8080/a/hls/discoverytheater.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverytheater_904f2cc1_8ffdc0ca4bcf0a73aad783f861432d0225ed0509/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", Discovery Turbo
-http://proxyts.canais.ink:8080/a/hls/discoveryturbo.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoveryturbo_ca3512f4_c60b569bdfa5ac115c68f07252bf90accabf2912/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2839" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png", Discovery World
-http://proxyts.canais.ink:8080/a/hls/discoveryworld.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/discoveryworld_68b79337_dff8ee0bbaf800a49c0939dab687b760938b84d1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="19" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/disney-logo.png" audio-track="por" subtitles="por" tvg-country="BR", Disney Channel
-http://proxyts.canais.ink:8080/a/hls/disney.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_c000b65c1676af160bcd97e6fc06034789a7521a/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1198" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" audio-track="por" subtitles="por" tvg-country="BR", Disney XD
-http://proxyts.canais.ink:8080/a/hls/disneyxd.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneyxd_d094700e_736a79fcd77b9386734207679c8f41a0e7e6d3d6/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1188" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/75px-E%21_logo_2012.png", E! Entertainment
-http://proxyts.canais.ink:8080/a/hls/canale.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/eentertainment_fe2fb474_de222661076b2bde29d203030ccd484c9e049847/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Food_Network_-_Logo_2016.png/300px-Food_Network_-_Logo_2016.png", Food Network
-http://proxyts.canais.ink:8080/a/hls/foodnetwork.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foodnetwork_ceab25ab_2a181283c7667f6bc979ffa22a38d7a702957380/playlist.m3u8
 #EXTINF:0 type="stream" channelId="177" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/300px-FOX_wordmark.svg.png", Fox
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/foxsd/video.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/fox_5a5b0f9b_d12cf354a7b12aad9e61daf2553083bc9cf29b9b/playlist.m3u8
 #EXTINF:0 type="stream" channelId="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/375px-Fox_life_logo.svg.png", Fox Life
-http://proxyts.canais.ink:8080/a/hls/foxlife.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxlife_66435217_21b7c3cd123fca49e68bdaf652838c230ddc85d3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/225px-FOXPremium2018.png", Fox Premium 1
-http://proxyts.canais.ink:8080/a/hls/foxpremium1.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_94b8e82405803b2eaded60d5253e25f0567c833a/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/225px-FOXPremium2018.png", Fox Premium 2
-http://proxyts.canais.ink:8080/a/hls/foxpremium2.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxpremium2_2456caf1_d69cd73669350c34517cc602e88974208100a0f6/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/300px-FX_International_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", FX
-http://proxyts.canais.ink:8080/a/hls/fx.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fx_667be543_d2bc041cd7b4c451250206a174784d701aa7e3c0/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2432" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/225px-Logotipo_da_Rede_Globo.png" audio-track="pt" subtitles="pt" tvg-country="BR", Globo
-http://proxyts.canais.ink:8080/a/hls/bobosp.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/globosphd_3a69aa1b_c068acadc26840f0e8a3f574febcd3300389ff83/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2408" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/225px-HBO_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", HBO
-http://proxyts.canais.ink:8080/a/hls/hbo.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbo1080p_63266754_1de28d3a4178e6d9365a935a2a49fc74e951a471/playlist.m3u8
 #EXTINF:0 type="stream" channelId="935" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/300px-HBO2_logo.png", HBO 2
-http://proxyts.canais.ink:8080/a/hls/hbo2.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbo2720p_05a53e36_901b4ed8de9d614aa0938addac3cbf4304f2a0e2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2584" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/300px-HBO_Family_logo.png", HBO Family
-http://proxyts.canais.ink:8080/a/hls/hbofamily.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbofamily_536fb693_2e08896d062069720ec91974485345c434e77880/playlist.m3u8
 #EXTINF:0 type="stream" channelId="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/300px-HBO_Mundi.svg.png", HBO Mundi
-http://proxyts.canais.ink:8080/a/hls/max.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/maxup_ce09b127_e9405c1aa878207665d7c4f902c2ec5f84c0a4f1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2585" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/300px-Logohboplus2019.svg.png", HBO Plus
-http://proxyts.canais.ink:8080/a/hls/hboplus.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hboplus1080p_39dfc9ff_26a709d49fed6774d95da8ad69e9ec576d2e86c3/playlist.m3u8
 #EXTINF:0 type="stream" channelId="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/300px-HBO_Pop.svg.png", HBO Pop
 http://proxyts.canais.ink:8080/a/hls/maxup.m3u8
 #EXTINF:0 type="stream" channelId="2583" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/300px-HBO_Signature.svg.png", HBO Signature
-http://proxyts.canais.ink:8080/a/hls/hbosignature.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_e677f4e8c2c09b164cb9ceb81157e18f9570dec0/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2587" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/300px-HBO_Xtreme.svg.png", HBO Xtreme
-http://proxyts.canais.ink:8080/a/hls/maxprime.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/maxprime_9c676e00_09940c03eaa2310c47e3db5ee245ee87bb5bfc2e/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1455" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" audio-track="pt-br" subtitles="pt-br" tvg-country="BR", History
-http://proxyts.canais.ink:8080/a/hls/history.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/history_b7eb6c68_4795de52660e9b880724e319692f0f33b37782d2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png", History 2
-http://proxyts.canais.ink:8080/a/hls/history2.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/h2_2bfba6b3_b8a1d1c3a13fe0b411a7d4af9f3527bd03d029e5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2586" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/300px-Investiga%C3%A7%C3%A3o_Discovery_1.png", Investigação Discovery
-http://proxyts.canais.ink:8080/a/hls/investigacaodiscovery.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/investigacaodiscovery_4d134bc0_e15dc76be00e99cdc91f60b7e1a112959532780e/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2588" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png", Megapix
-http://proxyts.canais.ink:8080/a/hls/megapix.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/megapix_a6f16ab4_995c355e9a84e1154483a7b4e9589b6e1cef8985/playlist.m3u8
 #EXTINF:0 type="stream" channelId="237" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/300px-MTV_Logo_2010.svg.png", MTV
-http://proxyts.canais.ink:8080/a/hls/mtv.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasil_7719a1c7_26104db3d408bd38c9ab0eea7c98efb468965dbd/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2590" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/300px-Multishow.png", Multishow
-http://proxyts.canais.ink:8080/a/hls/multishow.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_d1d244489e86dc12f01ed208f9854cc77a0b4aa5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3778" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/300px-Natgeo_Kids_logo.svg.png" audio-track="pt" subtitles="pt" tvg-country="br", Nat Geo Kids
-http://proxyts.canais.ink:8080/a/hls/natgeokids.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/natgeokids_8746b7e5_46fdc82d0ed3199ce05fc5f053488f218bb7218e/playlist.m3u8
 #EXTINF:0 type="stream" channelId="56" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/300px-Natgeologo.svg.png", NatGeo
-https://live.multicanais.com/live/natsd/video.m3u8?md5=VMAQsFiO9jQPN7eVFoifHA&expires=1588453339
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/nationalgeographic_2e01e174_36d9e2775c7f1e10dd38c192e6f468570298a53a/playlist.m3u8
 #EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/300px-National_Geographic_Wild_logo.svg.png", Nat Geo WILD
-http://proxyts.canais.ink:8080/a/hls/natgeowild.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/natgeowild_e4dd8a3f_8b068d2084c48c586c81d70609d282eecedb0939/playlist.m3u8
 #EXTINF:0 type="stream" channelId="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/300px-Nickelodeon_2009_logo.svg.png", Nickelodeon
-http://proxyts.canais.ink:8080/a/hls/nick.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/nickelodeon_bc33ea4e_00bb4aa800ff73d67cc5c89d32d8ad572b565439/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1719" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ParamountNetwork.png/300px-ParamountNetwork.png" audio-track="pt" subtitles="pt" tvg-country="BR", Paramount Channel
-http://proxyts.canais.ink:8080/a/hls/paramount.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/paramountchannel_efa260ad_eb1d9bb8b14433caabfe8f0bb947011084f55ba2/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1595" tvg-logo="http://retro.monstermedia.cz/wp-content/uploads/2017/09/retro-logo-bile2.png", Retro Music
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w190541904.m3u8
 #EXTINF:0 type="stream" channelId="530" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/300px-Sony_Channel_Logo.png", Sony
-http://proxyts.canais.ink:8080/a/hls/sony.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sony_06349be7_f0ddc2e3c01d3200320bc8667034f5df83fcf3d6/playlist.m3u8
 #EXTINF:0 type="stream" channelId="383" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/300px-SpaceLogo.svg.png", Space
-http://proxyts.canais.ink:8080/a/hls/space.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_70f90cfb21ca92b2d1e91a3be617d77c58189ee0/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2600" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/375px-SporTV_2_2017_logo.svg.png", SporTV 2
-http://proxyts.canais.ink:8080/a/hls/sportv2.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv2_22ab0e43_42c769bf7ed6dac11bf800db3eb2c9b9b540d89b/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/375px-StudioUniversal2016.png", Studio Universal
-http://proxyts.canais.ink:8080/a/hls/studiouniversal.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/studiouniversal_8b4753ed_eaa73244eb7cfede3ce2957d399c18ac77dfb662/playlist.m3u8
 #EXTINF:0 type="stream" channelId="73" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/300px-SYFY.svg.png", SyFy
-http://proxyts.canais.ink:8080/a/hls/syfy.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/syfy_097ccd4f_b97a52f3de7536645a66a9be46597b06c10a9df5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2602" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/300px-TBS_logo_2016.svg.png", TBS
-http://proxyts.canais.ink:8080/a/hls/tbs.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tbs_91eb375e_c07df865663f97931b1320b1d6e45f47330c8d5a/playlist.m3u8
 #EXTINF:0 type="stream" channelId="895" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/375px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
-http://proxyts.canais.ink:8080/a/hls/tcm.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tcm_13b72490_1d54cecfaf995e61b0a574d4b94d4a6e2aad30d6/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2603" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/300px-Telecine_Action_2.png", Telecine Action
-http://proxyts.canais.ink:8080/a/hls/telecineaction.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecineactionhd_be2793cd_ab1412671f0337827bcf8e89329da88e3af6b9b1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Telecine_Cult_2.png", Telecine Cult
-http://proxyts.canais.ink:8080/a/hls/telecinecult.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/telecinecult_8d255e1e_b1c40f9e40cf4a6b667033e995f29adedb1dc2a5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telecine-fun-2.png/300px-Telecine-fun-2.png" audio-track="por" subtitles="por" tvg-country="BR", Telecine Fun
-http://proxyts.canais.ink:8080/a/hls/telecinefun.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinefun_ae1e7198_c51cfbe104f1c6a815af853d8cb9631944e708e0/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telecine_Pipoca_2.png/300px-Telecine_Pipoca_2.png", Telecine Pipoca
-http://proxyts.canais.ink:8080/a/hls/telecinepipoca.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_f7df7e7876c7301f0638629d9ebaf4ce11473202/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/375px-Telecine_Premium.png", Telecine Premium
-http://proxyts.canais.ink:8080/a/hls/telecinepremium.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepremiumhd_a8a2b30f_42f2fd04d7627fd73c1b4a216ed830c9a035b5f0/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Telecine_Touch_3.png/375px-Telecine_Touch_3.png", Telecine Touch
-http://proxyts.canais.ink:8080/a/hls/telecinetouch.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinetouch_74cbd2c2_d23e93c1a3d11edc4c37e4b4ec0f51c0ff3d2989/playlist.m3u8
 #EXTINF:0 type="stream" channelId="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/375px-TLC_Logo.svg.png", TLC
-http://proxyts.canais.ink:8080/a/hls/tlc.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tlc_15aa0c7e_a48670de7f91f23f44c1514f7c535f635ae45014/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/375px-TNT_Logo_2016.svg.png", TNT
-http://proxyts.canais.ink:8080/a/hls/tnt.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tnt_9109c85a_81b4c0d082d9f34652394d379bf85a1f9bbdf3fb/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3797" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" audio-track="por" subtitles="por" tvg-country="BR", TNT Séries
-http://proxyts.canais.ink:8080/a/hls/tntseries.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tntseries_3bb18d9a_a60cbfb5cff001906a5a1e318f758542d2c63d2c/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2639" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/Tooncast.png/338px-Tooncast.png", Tooncast
-http://proxyts.canais.ink:8080/a/hls/tooncast.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tooncast_8effee40_a218811b376dbdccaa7615c4351a98a6a0c9c535/playlist.m3u8
 #EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/375px-Universal_TV_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Universal Channel
-http://proxyts.canais.ink:8080/a/hls/universal.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/universalchannel_8290abc6_d31756816994dda5368fbf0525632e72966eca62/playlist.m3u8
 #EXTINF:0 type="stream" channelId="984" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/300px-Canal_Viva_2018_wordmark.svg.png", VIVA
-http://proxyts.canais.ink:8080/a/hls/viva.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/viva_5d00f2c6_d38087fb59bfad07e983fa459983ca84264b2452/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png", Warner Channel
-http://proxyts.canais.ink:8080/a/hls/warner.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/warnerchannel_0a57cb53_4c60b4c8c2a23814e64f2d42489fb5a46b2b8e28/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/300px-USA_Network_logo_%282016%29.svg.png" audio-track="eng" subtitles="eng" tvg-country="US", USA Network
 http://cdnak19.cast4u.info/channels/2/10802.m3u8
 #EXTINF:0 type="stream" channelId="2285" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg", m2o TV
