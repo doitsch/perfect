@@ -137,3 +137,9 @@ https://severots.azureedge.net/hls1/warner.m3u8
 http://cdnak19.cast4u.info/channels/2/10802.m3u8
 #EXTINF:0 type="stream" channelId="2285" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg", m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 type="stream" channelId="2285" tvg-logo="https://2.bp.blogspot.com/-C3Az6AUz4No/TlEDuxQBFqI/AAAAAAAAB90/xJELUfsCEEQ/s325/VH1+logo+2003.png", VH1
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/vh1_a29e971b_0b37a63eca6b155721395cb20ba52b565bec9baa.m3u8
+#EXTINF:0 type="stream" channelId="2285" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg", The CW
+http://hgl-4-20-598.sub6.cachefly.xyz/live/b1knpp8t/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDIwIDI6MzY6NTggQU0maGFzaF92YWx1ZT0vYjR0QWNKc1Vhc1orelpkRTZnWGJBPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==
+#EXTINF:0 type="stream" channelId="2285" tvg-logo="https://2.bp.blogspot.com/-C3Az6AUz4No/TlEDuxQBFqI/AAAAAAAAB90/xJELUfsCEEQ/s325/VH1+logo+2003.png", VH1
+http://hls.123tv.live/ch/A6sT9EJGQDgTzK-C_VoWig/1590388687/vh1.m3u8
