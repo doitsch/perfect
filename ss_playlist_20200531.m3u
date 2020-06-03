@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="2557", Warner Channel HD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/warnerbrosshd/video.m3u8
-#EXTINF:0 type="stream" channelId="2557", Warner SD
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/warnerbrosssd/video.m3u8
-#EXTINF:0 type="stream" channelId="2903", Item 3
-https://abr-h.eu-central-1.edge.mycdn.live/live/1660885848050e9ca9746ddd54e2de25/1660885848050e9ca9746ddd54e2de25_2000/playlist.m3u8
+
+#EXTINF:-1 -1 tvg-logo=" ", TNT
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
+
+#EXTINF:-1 -1 tvg-logo=" ", TNT
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
+
+#EXTINF:-1 tvg-logo=" ", TNT
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/tnthd/video.m3u8
+
