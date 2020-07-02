@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:0 type="stream" channelId="1326", Cinemax
-https://stream.ec.cx/hls1/cinemax.m3u8?expires=1592990694&token=5e5b08f93c3f0f92356b4cc22a715103
-#EXTINF:0 type="stream" channelId="1326", Cinemax
-https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxsd/video.m3u8
-#EXTINF:0 type="stream" channelId="1118", BBC One
-https://uk.easyview.eu/hls/bbc-london.m3u8
