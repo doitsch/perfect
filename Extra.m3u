@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", VH1 USA
+http://hls.123tv.live/ch/F8Qj7Mm4mjoZ3-YHMLa0JA/1593670560/vh1.m3u8
