@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="1208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", VH1 USA
-http://hls.123tv.live/ch/F8Qj7Mm4mjoZ3-YHMLa0JA/1593670560/vh1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telecine-fun-2.png/300px-Telecine-fun-2.png" audio-track="por" subtitles="por" tvg-country="BR", Telecine Fun
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcfunhd/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telecine_Pipoca_2.png/300px-Telecine_Pipoca_2.png", Telecine Pipoca
+https://geralorigin.eu-central-1.edge.mycdn.live/live/tcpipocahd/video.m3u8
