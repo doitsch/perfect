@@ -7,7 +7,7 @@ https://stream.ec.cx/a/hls1/amc.m3u8?expires=1594725685&token=be494903a98dbd3ffa
 https://stream.ec.cx/a/hls1/axn.m3u8?expires=1594725727&token=5b13e5fc19109185011ddf426a9cf306
 #EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Animal Planet
 https://stream.ec.cx/a/hls1/animalplanet.m3u8?expires=1594726576&token=49209d05f0c257fd5ac3d4f69627ecaa
-#EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" audio-track="por" subtitles="por" tvg-country="BR", BIS
+#EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" audio-track="por" subtitles="por" tvg-country="BR", BIS (atrasado)
 https://stream.ec.cx/a/hls1/bis.m3u8?expires=1594720069&token=a3bac9f7ab4d408a7754ff2a67825351
 #EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" audio-track="por" subtitles="por" tvg-country="BR", BIS
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/bis_53e56691_4a1db3cc78113a03aecf800914ec1408d928838b/playlist.m3u8
@@ -45,6 +45,8 @@ https://stream.ec.cx/a/hls1/canale.m3u8?expires=1594727576&token=14fdc298ca2ac56
 https://stream.ec.cx/a/hls1/foodnetwork.m3u8?expires=1594727312&token=4c156d7e7cee12f71b705e26941a573d
 #EXTINF:0 type="stream" channelId="177" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/300px-FOX_wordmark.svg.png", Fox
 https://stream.ec.cx/a/hls1/fox.m3u8?expires=1594725809&token=f4ce601b6533f8b65214753b9c49131a
+#EXTINF:0 type="stream" channelId="177" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/300px-FOX_wordmark.svg.png", Fox
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/fox_5a5b0f9b_0422bc3b0e9a2444c3a29c6028215f5c2849b03a/playlist.m3u8
 #EXTINF:0 type="stream" channelId="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/375px-Fox_life_logo.svg.png", Fox Life
 https://stream.ec.cx/a/hls1/foxlife.m3u8?expires=1594727465&token=5e450cdc79565189662cd64863f1f3f4
 #EXTINF:0 type="stream" channelId="2604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/225px-FOXPremium2018.png", Fox Premium 1
@@ -62,7 +64,7 @@ https://stream.ec.cx/a/hls1/hbo2.m3u8?expires=1594725419&token=4ab16a88d3f2dfe6c
 #EXTINF:0 type="stream" channelId="2584" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/300px-HBO_Family_logo.png", HBO Family
 https://stream.ec.cx/a/hls1/hbofamily.m3u8?expires=1594725372&token=830b016103a259b43c4f91138ae7c61d
 #EXTINF:0 type="stream" channelId="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/300px-HBO_Mundi.svg.png", HBO Mundi
-https://stream.ec.cx/a/hls1/max.m3u8?get=expires&token
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/hbomundi_9f682df2_98246752a82f5464c0d3e48bee6a569374aa03f8/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2585" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/300px-Logohboplus2019.svg.png", HBO Plus
 https://stream.ec.cx/a/hls1/hboplus.m3u8?expires=1594725196&token=4627745c8cb387a27b785cf1208e2c3d
 #EXTINF:0 type="stream" channelId="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/300px-HBO_Pop.svg.png", HBO Pop
@@ -70,7 +72,7 @@ https://stream.ec.cx/a/hls1/hbopop.m3u8?expires=1594724951&token=23dc28a39f66783
 #EXTINF:0 type="stream" channelId="2583" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/300px-HBO_Signature.svg.png", HBO Signature
 https://stream.ec.cx/a/hls1/hbosignature.m3u8?expires=1594725121&token=9eda1c70122df3a0b1424cd262d7709e
 #EXTINF:0 type="stream" channelId="2587" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/300px-HBO_Xtreme.svg.png", HBO Xtreme
-https://stream.ec.cx/a/hls1/maxprime.m3u8?get=expires&token
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hboxtreme_9c676e00_9349aadf53807238d681a53938139b29a95bc828/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1455" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" audio-track="pt-br" subtitles="pt-br" tvg-country="BR", History
 https://stream.ec.cx/a/hls1/history.m3u8?expires=1594726385&token=77d3699f6edcf3ec219e7274534d0769
 #EXTINF:0 type="stream" channelId="1201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png", History 2
@@ -98,7 +100,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w190541904.m3u8
 #EXTINF:0 type="stream" channelId="530" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/300px-Sony_Channel_Logo.png", Sony
 https://stream.ec.cx/a/hls1/sony.m3u8?expires=1594725868&token=cf210bf87774ae8e61fd31ffd679a96e
 #EXTINF:0 type="stream" channelId="383" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/300px-SpaceLogo.svg.png", Space
-https://stream.ec.cx/a/hls1/space.m3u8?get=expires&token
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/space_e6c3dd63_be157ad186765460d18e91139269221444164a07/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2600" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/375px-SporTV_2_2017_logo.svg.png", SporTV 2
 https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594727876&token=7c5db3370fce3830fd70b0b5dc2fe5f9
 #EXTINF:0 type="stream" channelId="2625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/375px-StudioUniversal2016.png", Studio Universal
