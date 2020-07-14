@@ -8,7 +8,7 @@ https://stream.ec.cx/a/hls1/axn.m3u8?get=expires&token
 #EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Animal Planet
 https://stream.ec.cx/a/hls1/animalplanet.m3u8?get=expires&token
 #EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" audio-track="por" subtitles="por" tvg-country="BR", BIS
-https://stream.ec.cx/a/hls1/bis.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/bis.m3u8?expires=1594720069&token=a3bac9f7ab4d408a7754ff2a67825351
 #EXTINF:0 type="stream" channelId="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" audio-track="por" subtitles="por" tvg-country="BR", Boomerang
 https://stream.ec.cx/a/hls1/boomerang.m3u8?get=expires&token
 #EXTINF:0 type="stream" channelId="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
