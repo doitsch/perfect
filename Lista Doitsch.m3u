@@ -9,6 +9,8 @@ https://stream.ec.cx/a/hls1/axn.m3u8?expires=1594725727&token=5b13e5fc1910918501
 https://stream.ec.cx/a/hls1/animalplanet.m3u8?expires=1594726576&token=49209d05f0c257fd5ac3d4f69627ecaa
 #EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" audio-track="por" subtitles="por" tvg-country="BR", BIS
 https://stream.ec.cx/a/hls1/bis.m3u8?expires=1594720069&token=a3bac9f7ab4d408a7754ff2a67825351
+#EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" audio-track="por" subtitles="por" tvg-country="BR", BIS
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/bis_53e56691_4a1db3cc78113a03aecf800914ec1408d928838b/playlist.m3u8
 #EXTINF:0 type="stream" channelId="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" audio-track="por" subtitles="por" tvg-country="BR", Boomerang
 https://stream.ec.cx/a/hls1/boomerang.m3u8?expires=1594727213&token=b92d5e2f229f8b3b8fc830c41b24d00a
 #EXTINF:0 type="stream" channelId="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
