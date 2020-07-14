@@ -76,7 +76,7 @@ https://stream.ec.cx/a/hls1/history2.m3u8?get=expires&token
 #EXTINF:0 type="stream" channelId="2586" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/300px-Investiga%C3%A7%C3%A3o_Discovery_1.png", Investigação Discovery
 https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?get=expires&token
 #EXTINF:0 type="stream" channelId="2588" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png", Megapix
-https://stream.ec.cx/a/hls1/megapix.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/megapix.m3u8?expires=1594721490&token=f5ef640972f8e087a8da8b4d2a71e36e
 #EXTINF:0 type="stream" channelId="237" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/300px-MTV_Logo_2010.svg.png", MTV
 https://stream.ec.cx/a/hls1/mtv.m3u8?get=expires&token
 #EXTINF:0 type="stream" channelId="2590" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/300px-Multishow.png", Multishow
@@ -124,7 +124,7 @@ https://stream.ec.cx/a/hls1/tlc.m3u8?get=expires&token
 #EXTINF:0 type="stream" channelId="1052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/375px-TNT_Logo_2016.svg.png", TNT
 https://stream.ec.cx/a/hls1/tnt.m3u8?get=expires&token
 #EXTINF:0 type="stream" channelId="3797" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" audio-track="por" subtitles="por" tvg-country="BR", TNT Séries
-https://stream.ec.cx/a/hls1/tntseries.m3u8?get=expires&token
+https://stream.ec.cx/a/hls1/tntseries.m3u8?expires=1594721219&token=c2e2f01c9e16cfce8c48e30f0792789d
 #EXTINF:0 type="stream" channelId="2639" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/Tooncast.png/338px-Tooncast.png", Tooncast
 https://stream.ec.cx/a/hls1/tooncast.m3u8?get=expires&token
 #EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/375px-Universal_TV_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Universal Channel
