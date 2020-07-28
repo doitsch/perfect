@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0,A&E (WVC)
+https://geralorigin.eu-central-1.edge.mycdn.live/live/aehd/video.m3u8
+#EXTINF:0,AMC
+https://geralorigin.eu-central-1.edge.mycdn.live/live/amchd/video.m3u8
+#EXTINF:0,Animal Planet
+https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanethd/video.m3u8
+#EXTINF:0,AXN
+https://geralorigin.eu-central-1.edge.mycdn.live/live/axnhd/video.m3u8
+#EXTINF:0,BIS
+#EXTINF:0,Boomerang
+https://geralorigin.eu-central-1.edge.mycdn.live/live/boomeranghd/video.m3u8
+#EXTINF:0,Cartoon Network
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cartoonnetworkhd/video.m3u8
+#EXTINF:0,Cinemax
+https://geralorigin.eu-central-1.edge.mycdn.live/live/cinemaxsd/video.m3u8
+#EXTINF:0,Comedy Central
+https://geralorigin.eu-central-1.edge.mycdn.live/live/comedycentralhd/video.m3u8
+#EXTINF:0,Comedy Central USA
+http://hls.123tv.live/ch/tJKdiUpcpfbRAUx4wsbBwQ/1595868928/cc.m3u8
+#EXTINF:0,Discovery Channel
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryhd/video.m3u8
+#EXTINF:0,Discovery CIvilization
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverycivilizationhd/video.m3u8
+#EXTINF:0,Investigação Discovery
+https://geralorigin.eu-central-1.edge.mycdn.live/live/idhd/video.m3u8
+#EXTINF:0,Discovery Kids
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverykidshd/video.m3u8
+#EXTINF:0,Discovery Science
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverysciencehd/video.m3u8
+#EXTINF:0,Discovery Theater
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverytheaterhd/video.m3u8
+#EXTINF:0,Discovery Turbo
+https://geralorigin.eu-central-1.edge.mycdn.live/live/discoveryturbohd/video.m3u8
+#EXTINF:0,Disney
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneychannelhd/video.m3u8
+#EXTINF:0,Disney XD
+https://geralorigin.eu-central-1.edge.mycdn.live/live/disneyxdhd/video.m3u8
+#EXTINF:0,E! Entertainment
+https://geralorigin.eu-central-1.edge.mycdn.live/live/esd/video.m3u8
+#EXTINF:0,Food Network
+#EXTINF:0,Fox
+#EXTINF:0,Fox Life
+#EXTINF:0,Fox Premium 1
+
