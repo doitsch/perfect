@@ -4,7 +4,7 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:0 type="stream" channelId="2501", AMC
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/amc.m3u8?mu3zAQc9HC3GbwJq=CeTo_wtrr82SM0EpfOqdHg&3U1G7qaTxrPbalZnEx=1612899455
 #EXTINF:0 type="stream" channelId="2246" size="Medium", AXN
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/axn.m3u8?mu3zAQc9HC3GbwJq=jMaBG597mt5418Gh7aSH4g&3U1G7qaTxrPbalZnEx=1612899373
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/axn.m3u8?mu3zAQc9HC3GbwJq=Q3wb4Yzr7nF_1YwRx3Inkw&3U1G7qaTxrPbalZnEx=1612907536
 #EXTINF:0 type="stream" channelId="240", Animal Planet
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=IEv176Pf97mXM1jerifm3w&3U1G7qaTxrPbalZnEx=1612905045
 #EXTINF:0 type="stream" channelId="2434", Band
@@ -20,7 +20,7 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:0 type="stream" channelId="2595", Combate
 https://cdn.esporteone.com/COMBATE/video.m3u8
 #EXTINF:0 type="stream" channelId="1190", Comedy Central
-https://cdn.esporteone.com/COMEDYSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/comedycentral.m3u8?mu3zAQc9HC3GbwJq=fO94UwBD17CeKhuAx-Zj9g&3U1G7qaTxrPbalZnEx=1612906731
 #EXTINF:0 type="stream" channelId="2892" size="Medium", RPC
 dtv://antenna:41/atsc/12/1
 #EXTINF:0 type="stream" channelId="57", Discovery Channel
@@ -74,13 +74,13 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:0 type="stream" channelId="361", HBO Pop
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbopop.m3u8?mu3zAQc9HC3GbwJq=ekvEVHg498nbAZSNnuvpqQ&3U1G7qaTxrPbalZnEx=1612839699
 #EXTINF:0 type="stream" channelId="2583", HBO Signature
-https://geralorigin.eu-central-1.edge.mycdn.live/live/hbosignaturesd/video.m3u8?md5=hMM7I7zDtGruEFYnCB-iKQ&expires=1612860966
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbosignature.m3u8?mu3zAQc9HC3GbwJq=S2eWV9naHSfD7WM2LFzF3A&3U1G7qaTxrPbalZnEx=1612906990
 #EXTINF:0 type="stream" channelId="2587", HBO Xtreme
-https://geralorigin.eu-central-1.edge.mycdn.live/live/maxprimesd/video.m3u8?md5=j26FFd-9MmUUKtGD5EtRsQ&expires=1612858784
-#EXTINF:0 type="stream" channelId="1455" audio-track="pt-br" subtitles="pt-br" tvg-country="BR", History
-https://cdn.esporteone.com/HISTORYSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hboxtreme.m3u8?mu3zAQc9HC3GbwJq=Ln6IGqSNmXN7bMGlzNNytA&3U1G7qaTxrPbalZnEx=1612906987
+#EXTINF:0 type="stream" channelId="1455" audio-track="por" subtitles="por" tvg-country="BR", History
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history.m3u8?mu3zAQc9HC3GbwJq=Rb9MvPl0zdVIj2L0biebkg&3U1G7qaTxrPbalZnEx=1612906828
 #EXTINF:0 type="stream" channelId="1202", H2
-https://geralorigin.eu-central-1.edge.mycdn.live/live/h2sd/video.m3u8?md5=FKGx4IGS_ng_w-5E8JEfqQ&expires=1612861404
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history2.m3u8?mu3zAQc9HC3GbwJq=QIsZMVZQLhilAIG_jNLHug&3U1G7qaTxrPbalZnEx=1612906828
 #EXTINF:0 type="stream" channelId="1200", Lifetime
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/lifetime.m3u8?mu3zAQc9HC3GbwJq=RgTM6vAl1e04MqqmAFl0JA&3U1G7qaTxrPbalZnEx=1612904223
 #EXTINF:0 type="stream" channelId="2285", m2o TV
@@ -88,35 +88,35 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=
 #EXTINF:0 type="stream" channelId="289", MTV
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/mtv.m3u8?mu3zAQc9HC3GbwJq=YxUkLpIEh-SPWF_x1LkMpQ&3U1G7qaTxrPbalZnEx=1612904125
 #EXTINF:0 type="stream" channelId="2588", Megapix
-https://cdn.esporteone.com/MEGAPIXSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/megapix.m3u8?mu3zAQc9HC3GbwJq=qaTabZVjBc3dnqYlxM39TQ&3U1G7qaTxrPbalZnEx=1612907059
 #EXTINF:0 type="stream" channelId="2590", Multishow
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/multishow.m3u8?mu3zAQc9HC3GbwJq=L7attm6ZSzofc6lylM9mhA&3U1G7qaTxrPbalZnEx=1612904135
 #EXTINF:0 type="stream" channelId="3778" audio-track="pt" subtitles="pt" tvg-country="br", Nat Geo Kids
-https://geralorigin.eu-central-1.edge.mycdn.live/live/natgeokidshd/video.m3u8
-#EXTINF:0 type="stream" channelId="56", NatGeo
-https://cdn.esporteone.com/NATGEO/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeokids.m3u8?mu3zAQc9HC3GbwJq=FlU8QjmfR9c3BLk0_zO-Yw&3U1G7qaTxrPbalZnEx=1612906386
+#EXTINF:0 type="stream" channelId="56" audio-track="por" subtitles="por" tvg-country="BR", National Geographic
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeo.m3u8?mu3zAQc9HC3GbwJq=Dbt6OnGl0KWoS0B44rAeHQ&3U1G7qaTxrPbalZnEx=1612906824
 #EXTINF:0 type="stream" channelId="164", Nat Geo WILD
-https://geralorigin.eu-central-1.edge.mycdn.live/live/natgeowildsd/video.m3u8?md5=dNKgzE15d-IDEz5RO8uWUw&expires=1612861664
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeowild.m3u8?mu3zAQc9HC3GbwJq=fyUikl9-ITIoqsT_898VEw&3U1G7qaTxrPbalZnEx=1612906816
 #EXTINF:0 type="stream" channelId="41", Nick
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/nicksd/video.m3u8?md5=ek_rGFOeW299Tg2oORkRSg&expires=1612861374
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/nick.m3u8?mu3zAQc9HC3GbwJq=wwHub351MGYPsbfaQxeuvA&3U1G7qaTxrPbalZnEx=1612906682
 #EXTINF:0 type="stream" channelId="1719" audio-track="pt" subtitles="pt" tvg-country="BR", Paramount Channel
-https://geralorigin.eu-central-1.edge.mycdn.live/live/paramountchannelsd/video.m3u8?md5=_Z6ojfZz-0Brtt2jHHj3Kg&expires=1612858767
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/paramount.m3u8?mu3zAQc9HC3GbwJq=BJgNlVzAhZV6eDkvNkqCYQ&3U1G7qaTxrPbalZnEx=1612907150
 #EXTINF:0 type="stream" channelId="2635", Record
 dtv://antenna:34/atsc/7/1
 #EXTINF:0 type="stream" channelId="1595", Retro Music
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w190541904.m3u8
 #EXTINF:0 type="stream" channelId="530", Sony
-https://cdn.esporteone.com/SONYSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sony.m3u8?mu3zAQc9HC3GbwJq=MADC1VghCm6W-s10TuAJNg&3U1G7qaTxrPbalZnEx=1612907178
 #EXTINF:0 type="stream" channelId="383", Space
-https://cdn.esporteone.com/SPACESD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/space.m3u8?mu3zAQc9HC3GbwJq=xAY6EVKf2s1Qv23BwiL8lQ&3U1G7qaTxrPbalZnEx=1612907241
 #EXTINF:0 type="stream" channelId="2599", SporTV
 https://cdn.esporteone.com/SPORTVSD/video.m3u8
 #EXTINF:0 type="stream" channelId="2600" group="Esporte", SporTV 2
 https://cdn.esporteone.com/SPORTV2SD/video.m3u8
 #EXTINF:0 type="stream" channelId="2625", Studio Universal
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/studiouniversal.m3u8?mu3zAQc9HC3GbwJq=td1Ic-3GXt_2ZfHOWTzd0g&3U1G7qaTxrPbalZnEx=1612840953
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/studiouniversal.m3u8?mu3zAQc9HC3GbwJq=2TIK0W6oA9IFmhHaj1k2Sg&3U1G7qaTxrPbalZnEx=1612907282
 #EXTINF:0 type="stream" channelId="73", Syfy
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/syfy.m3u8?mu3zAQc9HC3GbwJq=4rcvHpz2jLtm3zScwUV8dw&3U1G7qaTxrPbalZnEx=1612841024
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/syfy.m3u8?mu3zAQc9HC3GbwJq=_6qXKkqSgkp4ynVnHQcbIg&3U1G7qaTxrPbalZnEx=1612907290
 #EXTINF:0 type="stream" channelId="2602", TBS
 https://stream2.canais.info/a/hls/tbs.m3u8
 #EXTINF:0 type="stream" channelId="895", TCM
@@ -136,16 +136,16 @@ https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinetouchsd/video.m3u8
 #EXTINF:0 type="stream" channelId="67", TLC
 https://cdn.esporteone.com/TLCSD/video.m3u8
 #EXTINF:0 type="stream" channelId="1052", TNT
-https://cdn.esporteone.com/TNTSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=VqmZsmk5Y-Vf0Jd8gVV6xw&3U1G7qaTxrPbalZnEx=1612907482
 #EXTINF:0 type="stream" channelId="2686", Item 72
-https://cdn.esporteone.com/TNTSERIESSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tntseries.m3u8?mu3zAQc9HC3GbwJq=458617HYuvzSb_g4y7jqhA&3U1G7qaTxrPbalZnEx=1612907394
 #EXTINF:0 type="stream" channelId="2639", Tooncast
-https://geralorigin.eu-central-1.edge.mycdn.live/live/tooncasthd/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tooncast.m3u8?mu3zAQc9HC3GbwJq=JcAYkRYB8LFR5sQ_s9d3MQ&3U1G7qaTxrPbalZnEx=1612906639
 #EXTINF:0 type="stream" channelId="187" audio-track="por" subtitles="por" tvg-country="BR", Universal Channel
-https://geralorigin.eu-central-1.edge.mycdn.live/mylive/universalsd/video.m3u8?md5=aVNNangh-xhDnh4NA6c7bg&expires=1612861313
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/universal.m3u8?mu3zAQc9HC3GbwJq=xdGBre4K-lnJVW8lAaYVwQ&3U1G7qaTxrPbalZnEx=1612907394
 #EXTINF:0 type="stream" channelId="2627", VH1
 http://proxyts.ec.cx:8082/hls1/vh1.m3u8
 #EXTINF:0 type="stream" channelId="984", VIVA
 https://cdn.esporteone.com/VIVASD/video.m3u8
 #EXTINF:0 type="stream" channelId="2557", Warner Channel
-https://cdn.esporteone.com/WARNERSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/warner.m3u8?mu3zAQc9HC3GbwJq=F2WQOQWPeNtiyOrvvZ0ihg&3U1G7qaTxrPbalZnEx=1612907394
