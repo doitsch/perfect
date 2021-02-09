@@ -6,15 +6,15 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:0 type="stream" channelId="2246" size="Medium", AXN
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/axn.m3u8?mu3zAQc9HC3GbwJq=jMaBG597mt5418Gh7aSH4g&3U1G7qaTxrPbalZnEx=1612899373
 #EXTINF:0 type="stream" channelId="240", Animal Planet
-https://cdn.esporteone.com/ANIMALPLANETSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=IEv176Pf97mXM1jerifm3w&3U1G7qaTxrPbalZnEx=1612905045
 #EXTINF:0 type="stream" channelId="2434", Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1808161351.m3u8
 #EXTINF:0 type="stream" channelId="2718" audio-track="por" subtitles="por" tvg-country="BR", BIS
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bis.m3u8?mu3zAQc9HC3GbwJq=ANcdBSf3hYfhoEu5FXBKKg&3U1G7qaTxrPbalZnEx=1612838091
 #EXTINF:0 type="stream" channelId="321" audio-track="por" subtitles="por" tvg-country="BR", Boomerang
-https://cdn.esporteone.com/BOOMERANGSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=A2bxhhqWitoT_QNj-EDieg&3U1G7qaTxrPbalZnEx=1612905167
 #EXTINF:0 type="stream" channelId="40", Cartoon
-https://cdn.esporteone.com/CARTOONSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=of0qbdvaSWOYWXBXUmoTHg&3U1G7qaTxrPbalZnEx=1612905167
 #EXTINF:0 type="stream" channelId="1326", Cinemax
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cinemax.m3u8?mu3zAQc9HC3GbwJq=sp7smYBukXW6cfnhgZqq7A&3U1G7qaTxrPbalZnEx=1612899530
 #EXTINF:0 type="stream" channelId="2595", Combate
@@ -40,7 +40,7 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:0 type="stream" channelId="2586", Investigação Discovery
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/investigacaodiscovery.m3u8?mu3zAQc9HC3GbwJq=QJ_0AyNsYs6s5nPCsw_uCw&3U1G7qaTxrPbalZnEx=1612904213
 #EXTINF:0 type="stream" channelId="19" audio-track="por" subtitles="por" tvg-country="BR", Disney Channel
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disney.m3u8?mu3zAQc9HC3GbwJq=67ZDVnkCKFnVTAKsS058Og&3U1G7qaTxrPbalZnEx=1612838609
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/disney.m3u8?mu3zAQc9HC3GbwJq=hxS6t6aB8EMIbK2nqJJ8vg&3U1G7qaTxrPbalZnEx=1612906377
 #EXTINF:0 type="stream" channelId="1188", E! Entertainment
 https://geralorigin.eu-central-1.edge.mycdn.live/live/esd/video.m3u8?md5=B_lHsggUAkYkG5Akn0XwEw&expires=1612857882
 #EXTINF:0 type="stream" channelId="1263", ESPN
@@ -82,7 +82,7 @@ https://cdn.esporteone.com/HISTORYSD/video.m3u8
 #EXTINF:0 type="stream" channelId="1202", H2
 https://geralorigin.eu-central-1.edge.mycdn.live/live/h2sd/video.m3u8?md5=FKGx4IGS_ng_w-5E8JEfqQ&expires=1612861404
 #EXTINF:0 type="stream" channelId="1200", Lifetime
-https://geralorigin.eu-central-1.edge.mycdn.live/live/lifetimehd/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/lifetime.m3u8?mu3zAQc9HC3GbwJq=RgTM6vAl1e04MqqmAFl0JA&3U1G7qaTxrPbalZnEx=1612904223
 #EXTINF:0 type="stream" channelId="2285", m2o TV
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 type="stream" channelId="289", MTV
