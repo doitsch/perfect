@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="1208" audio-track="por" subtitles="por" tvg-country="BR", A&E
+#EXTINF:0 type="stream" channelId="1208" audio-track="por" subtitles="por" tvg-country="BR", AeE
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/aie.m3u8?mu3zAQc9HC3GbwJq=JgfGDdHJ3CZ3hAnUj-fBzw&3U1G7qaTxrPbalZnEx=1612899339
 #EXTINF:0 type="stream" channelId="2501", AMC
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/amc.m3u8?mu3zAQc9HC3GbwJq=CeTo_wtrr82SM0EpfOqdHg&3U1G7qaTxrPbalZnEx=1612899455
@@ -13,7 +13,7 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1808161351.m3u8
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bis.m3u8?mu3zAQc9HC3GbwJq=ANcdBSf3hYfhoEu5FXBKKg&3U1G7qaTxrPbalZnEx=1612838091
 #EXTINF:0 type="stream" channelId="321" audio-track="por" subtitles="por" tvg-country="BR", Boomerang
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=A2bxhhqWitoT_QNj-EDieg&3U1G7qaTxrPbalZnEx=1612905167
-#EXTINF:0 type="stream" channelId="40", Cartoon
+#EXTINF:0 type="stream" channelId="40", Cartoon Network
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=of0qbdvaSWOYWXBXUmoTHg&3U1G7qaTxrPbalZnEx=1612905167
 #EXTINF:0 type="stream" channelId="1326", Cinemax
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cinemax.m3u8?mu3zAQc9HC3GbwJq=sp7smYBukXW6cfnhgZqq7A&3U1G7qaTxrPbalZnEx=1612899530
@@ -22,15 +22,15 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:0 type="stream" channelId="1190", Comedy Central
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/comedycentral.m3u8?mu3zAQc9HC3GbwJq=fO94UwBD17CeKhuAx-Zj9g&3U1G7qaTxrPbalZnEx=1612906731
 #EXTINF:0 type="stream" channelId="2892" size="Medium", RPC
-dtv://antenna:41/atsc/12/1
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=HryLVfDuElCsl62xfSu18A&3U1G7qaTxrPbalZnEx=1612917839
 #EXTINF:0 type="stream" channelId="57", Discovery Channel
-https://cdn.esporteone.com/DISCOVERYSD/video.m3u8
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=JqxJk0-UwXcfndO8vjOIhA&3U1G7qaTxrPbalZnEx=1612917752
 #EXTINF:0 type="stream" channelId="2841" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Civilization
 https://geralorigin.eu-central-1.edge.mycdn.live/live/discoverycivilizationhd/video.m3u8
-#EXTINF:0 type="stream" channelId="2620" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Home & Health
+#EXTINF:0 type="stream" channelId="2620" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Home and Health
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoveryhomeihealth.m3u8?mu3zAQc9HC3GbwJq=LR7PQ8iiBzcYlK4rXlLIEw&3U1G7qaTxrPbalZnEx=1612907995
 #EXTINF:0 type="stream" channelId="58" audio-track="por" subtitles="por" tvg-country="br" size="Medium", Discovery Science
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoverysience.m3u8?mu3zAQc9HC3GbwJq=IxrNonJl21OLwSqkO9S44Q&3U1G7qaTxrPbalZnEx=1612838822
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoverysience.m3u8?mu3zAQc9HC3GbwJq=iQLyCrcQz-gWJTSEFb76KA&3U1G7qaTxrPbalZnEx=1612917748
 #EXTINF:0 type="stream" channelId="2558", Discovery Theater
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discoverytheater.m3u8?mu3zAQc9HC3GbwJq=qs_fVXWXydMKxbdicph-wQ&3U1G7qaTxrPbalZnEx=1612907930
 #EXTINF:0 type="stream" channelId="2840", Discovery Turbo
@@ -62,7 +62,7 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:0 type="stream" channelId="1303", FX
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/fx.m3u8?mu3zAQc9HC3GbwJq=Dblhflf_AKxAbEkkLf6z1w&3U1G7qaTxrPbalZnEx=1612899579
 #EXTINF:0 type="stream" channelId="1330" audio-track="por" subtitles="por" tvg-country="BR", HBO
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=Xq3rkkeCLSbhfPK-1PdHuQ&3U1G7qaTxrPbalZnEx=1612899734
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=oDIvl90A3tc_tVnfOqGgJg&3U1G7qaTxrPbalZnEx=1612919215
 #EXTINF:0 type="stream" channelId="935", HBO 2
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo2.m3u8?mu3zAQc9HC3GbwJq=doKRIT0tFCS4OQyN1uwtrQ&3U1G7qaTxrPbalZnEx=1612903708
 #EXTINF:0 type="stream" channelId="2584", HBO Family
