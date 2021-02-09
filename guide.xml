@@ -1,259 +1,219 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Telecine Action">
-    <display-name lang="pt">Telecine Action</display-name>
-    <url>http://www.telecineplay.com.br</url>
-  </channel>
-  <channel id="Telecine Touch">
-    <display-name lang="pt">Telecine Touch</display-name>
-    <url>http://www.telecineplay.com.br</url>
-  </channel>
-  <channel id="Telecine Fun">
-    <display-name lang="pt">Telecine Fun</display-name>
-    <url>http://www.telecineplay.com.br</url>
-  </channel>
-  <channel id="Telecine Pipoca">
-    <display-name lang="pt">Telecine Pipoca</display-name>
-    <url>http://www.telecineplay.com.br</url>
-  </channel>
-  <channel id="Telecine Cult">
-    <display-name lang="pt">Telecine Cult</display-name>
-    <url>http://www.telecineplay.com.br</url>
-  </channel>
-  <channel id="Discovery Home and Health">
-    <display-name lang="en">Discovery Home and Health</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="TLC">
-    <display-name lang="en">TLC</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="VIVA">
-    <display-name lang="en">VIVA</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="SporTV 3">
-    <display-name lang="en">SporTV 3</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="SporTV 2">
-    <display-name lang="en">SporTV 2</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="SporTV">
-    <display-name lang="en">SporTV</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Multishow">
-    <display-name lang="en">Multishow</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Universal Channel">
-    <display-name lang="en">Universal Channel</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Warner Channel">
-    <display-name lang="en">Warner Channel</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Sony">
-    <display-name lang="en">Sony</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Fox">
-    <display-name lang="en">Fox</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Megapix">
-    <display-name lang="en">Megapix</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="TNT">
-    <display-name lang="en">TNT</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Cinemax">
-    <display-name lang="en">Cinemax</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="HBO">
-    <display-name lang="en">HBO</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="HBO 2">
-    <display-name lang="en">HBO 2</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="HBO Plus">
-    <display-name lang="en">HBO Plus</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="HBO Family">
-    <display-name lang="en">HBO Family</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="HBO Signature">
-    <display-name lang="en">HBO Signature</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="HBO Mundi">
-    <display-name lang="en">HBO Mundi</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="HBO Xtreme">
-    <display-name lang="en">HBO Xtreme</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="HBO Pop">
-    <display-name lang="en">HBO Pop</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="TCM">
-    <display-name lang="en">TCM</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Space">
-    <display-name lang="en">Space</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="AXN">
-    <display-name lang="en">AXN</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Investigação Discovery">
-    <display-name lang="en">Investigação Discovery</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="FX">
-    <display-name lang="en">FX</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="AeE">
-    <display-name lang="en">AeE</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Lifetime">
-    <display-name lang="en">Lifetime</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Studio Universal">
-    <display-name lang="en">Studio Universal</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Syfy">
-    <display-name lang="en">Syfy</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Fox Premium 1">
-    <display-name lang="en">Fox Premium 1</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Fox Premium 2">
-    <display-name lang="en">Fox Premium 2</display-name>
-    <url>http://www.oi.com.br</url>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Discovery Channel">
-    <display-name lang="en">Discovery Channel</display-name>
-    <url>http://www.oi.com.br</url>
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Animal Planet">
-    <display-name lang="en">Animal Planet</display-name>
-    <url>http://www.oi.com.br</url>
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="National Geographic">
-    <display-name lang="en">National Geographic</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Nat Geo Wild">
-    <display-name lang="en">Nat Geo Wild</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Discovery Science">
-    <display-name lang="en">Discovery Science</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="H2">
-    <display-name lang="en">H2</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Cartoon Network">
-    <display-name lang="en">Cartoon Network</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Disney Channel">
-    <display-name lang="en">Disney Channel</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Nickelodeon">
-    <display-name lang="en">Nickelodeon</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Tooncast">
-    <display-name lang="en">Tooncast</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Boomerang">
-    <display-name lang="en">Boomerang</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Nat Geo Kids">
-    <display-name lang="en">Nat Geo Kids</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="BIS">
-    <display-name lang="en">BIS</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="E!">
-    <display-name lang="en">E!</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="MTV">
-    <display-name lang="en">MTV</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Paramount Channel">
-    <display-name lang="en">Paramount Channel</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Comedy Central">
-    <display-name lang="en">Comedy Central</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="TNT Séries">
-    <display-name lang="en">TNT Séries</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Fox Life">
-    <display-name lang="en">Fox Life</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="TBS">
-    <display-name lang="en">TBS</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Discovery World">
-    <display-name lang="en">Discovery World</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="ESPN Brasil">
-    <display-name lang="en">ESPN Brasil</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="ESPN">
-    <display-name lang="en">ESPN</display-name>
-    <url>http://www.oi.com.br</url>
-  </channel>
-  <channel id="Fox Sports">
-    <display-name lang="en">Fox Sports</display-name>
-    <url>http://www.oi.com.br</url>
+  <channel id="History Channel">
+    <display-name lang="pt">History Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Discovery Turbo">
-    <display-name lang="en">Discovery Turbo</display-name>
-    <url>http://www.oi.com.br</url>
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="pt">Nat Geo Wild</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="pt">Discovery Theater</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 3 ">
+    <display-name lang="pt">SporTV 3 </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN ">
+    <display-name lang="pt">ESPN </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="Fox Sports 2">
-    <display-name lang="en">Fox Sports 2</display-name>
-    <url>http://www.oi.com.br</url>
+    <display-name lang="pt">Fox Sports 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="pt">Paramount Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO Plus</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Pop">
+    <display-name lang="pt">HBO Pop</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Mundi">
+    <display-name lang="pt">HBO Mundi</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Xtreme">
+    <display-name lang="pt">HBO Xtreme</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN 2">
+    <display-name lang="pt">ESPN 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery World">
+    <display-name lang="pt">Discovery World</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="H2">
+    <display-name lang="pt">H2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Warner">
+    <display-name lang="pt">Warner</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AeE">
+    <display-name lang="pt">AeE</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Investigação Discovery">
+    <display-name lang="pt">Investigação Discovery</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">Syfy</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">Lifetime</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id=" Universal">
+    <display-name lang="pt"> Universal</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
 </tv>
