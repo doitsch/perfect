@@ -9,7 +9,7 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/axn.m3u8?mu3zAQc9HC3GbwJq=L21n7EYwtYadBYrJlEICNg&3U1G7qaTxrPbalZnEx=1613195311
 
 #EXTINF:0 type="stream" channelId="240", Animal Planet
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=IEv176Pf97mXM1jerifm3w&3U1G7qaTxrPbalZnEx=1612905045
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=VDWxUYuGzEocToHxJSTOJg&3U1G7qaTxrPbalZnEx=1613195589
 
 #EXTINF:0 type="stream" channelId="2434", Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1808161351.m3u8
@@ -67,10 +67,13 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxpremium2.m3u8?mu3zAQc9HC3GbwJq=edAgkmgg8g6gWlrlZcKa1A&3U1G7qaTxrPbalZnEx=1612904072
 #EXTINF:0 type="stream" channelId="1328", Fox Sports
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/foxsports1.m3u8?mu3zAQc9HC3GbwJq=YyGtVlzZ2mWFlhEZWu3wLg&3U1G7qaTxrPbalZnEx=1612908091
+
 #EXTINF:0 type="stream" channelId="1303", FX
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/fx.m3u8?mu3zAQc9HC3GbwJq=Dblhflf_AKxAbEkkLf6z1w&3U1G7qaTxrPbalZnEx=1612899579
+
 #EXTINF:0 type="stream" channelId="1330" audio-track="por" subtitles="por" tvg-country="BR", HBO
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=oDIvl90A3tc_tVnfOqGgJg&3U1G7qaTxrPbalZnEx=1612919215
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo.m3u8?mu3zAQc9HC3GbwJq=ti6dPH8SHHgQbrfply5w2Q&3U1G7qaTxrPbalZnEx=1613195592
+
 #EXTINF:0 type="stream" channelId="935", HBO 2
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo2.m3u8?mu3zAQc9HC3GbwJq=doKRIT0tFCS4OQyN1uwtrQ&3U1G7qaTxrPbalZnEx=1612903708
 #EXTINF:0 type="stream" channelId="2584", HBO Family
