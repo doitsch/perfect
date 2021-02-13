@@ -1,20 +1,28 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="1208" audio-track="por" subtitles="por" tvg-country="BR", AeE
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/aie.m3u8?mu3zAQc9HC3GbwJq=JgfGDdHJ3CZ3hAnUj-fBzw&3U1G7qaTxrPbalZnEx=1612899339
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/aie.m3u8?mu3zAQc9HC3GbwJq=kttaekCRKTvcIVirEjQn7w&3U1G7qaTxrPbalZnEx=1613195285
+
 #EXTINF:0 type="stream" channelId="2501", AMC
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/amc.m3u8?mu3zAQc9HC3GbwJq=CeTo_wtrr82SM0EpfOqdHg&3U1G7qaTxrPbalZnEx=1612899455
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/amc.m3u8?mu3zAQc9HC3GbwJq=DRxhe82BUKHEx4q1Fir_rg&3U1G7qaTxrPbalZnEx=1613195300
+
 #EXTINF:0 type="stream" channelId="2246" size="Medium", AXN
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/axn.m3u8?mu3zAQc9HC3GbwJq=Q3wb4Yzr7nF_1YwRx3Inkw&3U1G7qaTxrPbalZnEx=1612907536
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/axn.m3u8?mu3zAQc9HC3GbwJq=L21n7EYwtYadBYrJlEICNg&3U1G7qaTxrPbalZnEx=1613195311
+
 #EXTINF:0 type="stream" channelId="240", Animal Planet
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=IEv176Pf97mXM1jerifm3w&3U1G7qaTxrPbalZnEx=1612905045
+
 #EXTINF:0 type="stream" channelId="2434", Band
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1808161351.m3u8
+
 #EXTINF:0 type="stream" channelId="2718" audio-track="por" subtitles="por" tvg-country="BR", BIS
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bis.m3u8?mu3zAQc9HC3GbwJq=ANcdBSf3hYfhoEu5FXBKKg&3U1G7qaTxrPbalZnEx=1612838091
+
 #EXTINF:0 type="stream" channelId="321" audio-track="por" subtitles="por" tvg-country="BR", Boomerang
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/boomerang.m3u8?mu3zAQc9HC3GbwJq=A2bxhhqWitoT_QNj-EDieg&3U1G7qaTxrPbalZnEx=1612905167
+
 #EXTINF:0 type="stream" channelId="40", Cartoon Network
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=of0qbdvaSWOYWXBXUmoTHg&3U1G7qaTxrPbalZnEx=1612905167
+
 #EXTINF:0 type="stream" channelId="1326", Cinemax
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cinemax.m3u8?mu3zAQc9HC3GbwJq=sp7smYBukXW6cfnhgZqq7A&3U1G7qaTxrPbalZnEx=1612899530
 #EXTINF:0 type="stream" channelId="2595", Combate
