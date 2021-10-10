@@ -128,7 +128,7 @@ https://stream.ec.cx/a/hls1/tlc.m3u8?expires=1594727318&token=8f32e65aa0fb569ad9
 #EXTINF:0 type="stream" channelId="1052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/375px-TNT_Logo_2016.svg.png", TNT
 https://stream.ec.cx/a/hls1/tnt.m3u8?expires=1594724726&token=5cea05d991d8d0774a9be37a2195dd2b
 #EXTINF:0 type="stream" channelId="3797" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" audio-track="por" subtitles="por" tvg-country="BR", TNT Séries
-https://stream.ec.cx/a/hls1/tntseries.m3u8?expires=1594724400&token=786cf33086c4f09a0ca191f5833bc27d
+https://m3u9.ml/b/hls1/tntseries.m3u8?mu3zAQc9HC3GbwJq=eI80UtJyF7fF2AgSfi27qQ&3U1G7qaTxrPbalZnEx=1633864098
 #EXTINF:0 type="stream" channelId="2639" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/Tooncast.png/338px-Tooncast.png", Tooncast
 https://stream.ec.cx/a/hls1/tooncast.m3u8?expires=1594727010&token=67899b73670a217aaf3a5a0c4598d823
 #EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/375px-Universal_TV_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Universal Channel
