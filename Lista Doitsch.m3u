@@ -134,7 +134,7 @@ https://stream.ec.cx/a/hls1/tooncast.m3u8?expires=1594727010&token=67899b73670a2
 #EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/375px-Universal_TV_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Universal Channel
 https://stream.ec.cx/a/hls1/universal.m3u8?expires=1594726003&token=a6b8f84b6afc8d9cc4cb6dd316044297
 #EXTINF:0 type="stream" channelId="984" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/300px-Canal_Viva_2018_wordmark.svg.png", VIVA
-https://stream.ec.cx/a/hls1/viva.m3u8?expires=1594727611&token=feff037eae9b646c0c52857cc066d894
+https://cdn.esporteone.com/VIVAHD/video.m3u8?md5=KPTuKll9oWzLotDsy6l63Q&expires=1644555377
 #EXTINF:0 type="stream" channelId="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png", Warner Channel
 https://stream.ec.cx/a/hls1/warner.m3u8?expires=1594724340&token=ae01de511b22756203ff80566d443931
 #EXTINF:0 type="stream" channelId="3229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/300px-USA_Network_logo_%282016%29.svg.png" audio-track="eng" subtitles="eng" tvg-country="US", USA Network
