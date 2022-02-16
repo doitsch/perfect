@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1208" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", AeE
+https://m3u9.ml/a2/hls1/aie.m3u8?mu3zAQc9HC3GbwJq=tTEn4e1nzawrN6Ir-ZwWZQ&3U1G7qaTxrPbalZnEx=1645001074
+
+#EXTINF:0 type="stream" channelId="2501" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" audio-track="por" subtitles="por" tvg-country="BR", AMC
+https://m3u9.ml/a2/hls1/amc.m3u8?mu3zAQc9HC3GbwJq=E1uhjqpvxdTPScMsx_F-HQ&3U1G7qaTxrPbalZnEx=1645001210
+
+#EXTINF:0 type="stream" channelId="2246" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/axnb.png" audio-track="por" subtitles="por" tvg-country="br" size="Medium", AXN
+https://cdn.esporteone.com/AXN/video.m3u8
+
+#EXTINF:0 type="stream" channelId="50" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Animal Planet
+https://cdn.esporteone.com/ANIMALPLANET/video.m3u8
+
+#EXTINF:0 type="stream" channelId="2718" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png", BIS
+https://cdn.esporteone.com/AMC/video.m3u8
+
+#EXTINF:0 type="stream" channelId="321" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png", Boomerang
+https://cdn.esporteone.com/BOOMERANG/video.m3u8
+
+#EXTINF:0 type="stream" channelId="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/300px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+https://cdn.esporteone.com/CARTOON/video.m3u8
+
+#EXTINF:0 type="stream" channelId="1326" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/300px-Cinemax_LA.png", Cinemax
+https://cdn.esporteone.com/CINEMAX/video.m3u8
+
+#EXTINF:0 type="stream" channelId="1190" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/300px-Comedy_Central_2018.svg.png", Comedy Central
+https://cdn.esporteone.com/COMEDY/video.m3u8
+
+#EXTINF:0 type="stream" channelId="57" tvg-logo="https://img2.gratispng.com/20180508/rlw/kisspng-discovery-channel-logo-television-show-discovery-5af174a2ae26d1.7705781415257734747133.jpg", Discovery Channel
+https://cdn.esporteone.com/DISCOVERY/video.m3u8
+#EXTINF:0 type="stream" channelId="2841" tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Civilization
+https://cdn.esporteone.com/AMC/video.m3u8
+#EXTINF:0 type="stream" channelId="2620" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" audio-track="pt" subtitles="pt" tvg-country="BR", Discovery Home and Health
+https://cdn.esporteone.com/HOMEHEALTH/video.m3u8
+#EXTINF:0 type="stream" channelId="2505" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" audio-track="por" subtitles="por" tvg-country="BR", Discovery Kids
+https://cdn.esporteone.com/DISCOVERYKIDS/video.m3u8
+#EXTINF:0 type="stream" channelId="1508" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryscienceb.png" audio-track="por" subtitles="por" tvg-country="br" size="Medium", Discovery Science
+https://cdn.esporteone.com/SCIENCE/video.m3u8
+#EXTINF:0 type="stream" channelId="2558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1024px-2015_Discovery_theater_HD_logo.svg.png", Discovery Theater
+https://stream.ec.cx/a/hls1/discoverytheater.m3u8?expires=1594726456&token=10c39abf65ddfedb701cff79122f3b73
+#EXTINF:0 type="stream" channelId="2840" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", Discovery Turbo
+https://cdn.esporteone.com/DISCOVERYTURBO/video.m3u8
+#EXTINF:0 type="stream" channelId="2839" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png", Discovery World
+https://cdn.esporteone.com/DISCOVERYWORLD/video.m3u8
+#EXTINF:0 type="stream" channelId="19" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/disney-logo.png" audio-track="por" subtitles="por" tvg-country="BR", Disney Channel
+https://cdn.esporteone.com/DISNEY/video.m3u8
+#EXTINF:0 type="stream" channelId="1198" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" audio-track="por" subtitles="por" tvg-country="BR", Disney XD
+https://stream.ec.cx/a/hls1/disneyxd.m3u8?expires=1594727135&token=abed2a4f86012e2e0ae7102dc90b22e4
+#EXTINF:0 type="stream" channelId="1188" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/E%21_logo_2012.png/75px-E%21_logo_2012.png", E!
+https://stream.ec.cx/a/hls1/canale.m3u8?expires=1594727576&token=14fdc298ca2ac56ed007c49fe13e5b5a
+#EXTINF:0 type="stream" channelId="1244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Food_Network_-_Logo_2016.png/300px-Food_Network_-_Logo_2016.png", Food Network
+https://stream.ec.cx/a/hls1/foodnetwork.m3u8?expires=1594727312&token=4c156d7e7cee12f71b705e26941a573d
+#EXTINF:0 type="stream" channelId="177" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/300px-FOX_wordmark.svg.png", Fox
+https://stream.ec.cx/a/hls1/fox.m3u8?expires=1594725809&token=f4ce601b6533f8b65214753b9c49131a
+#EXTINF:0 type="stream" channelId="177" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/300px-FOX_wordmark.svg.png", Fox
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/fox_5a5b0f9b_0422bc3b0e9a2444c3a29c6028215f5c2849b03a/playlist.m3u8
+#EXTINF:0 type="stream" channelId="178" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/375px-Fox_life_logo.svg.png", Fox Life
+https://stream.ec.cx/a/hls1/foxlife.m3u8?expires=1594727465&token=5e450cdc79565189662cd64863f1f3f4
+#EXTINF:0 type="stream" channelId="2604" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/225px-FOXPremium2018.png", Fox Premium 1
+https://stream.ec.cx/a/hls1/foxpremium1.m3u8?expires=1594725533&token=adfddc824f905b4a3ee05c0b10e97cd8
+#EXTINF:0 type="stream" channelId="2607" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FOXPremium2018.png/225px-FOXPremium2018.png", Fox Premium 2
+https://stream.ec.cx/a/hls1/foxpremium2.m3u8?expires=1594725494&token=38970c807fb0f9e261817f561d22936c
+#EXTINF:0 type="stream" channelId="1303" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/300px-FX_International_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", FX
+https://stream.ec.cx/a/hls1/fx.m3u8?expires=1594726048&token=01442ee5aec4da3c102dec9b69d319ce
+#EXTINF:0 type="stream" channelId="2432" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/225px-Logotipo_da_Rede_Globo.png" audio-track="pt" subtitles="pt" tvg-country="BR", Globo
+http://edge-aws.aovivo.club/hls/s:88.198.239.170/globosphd_3a69aa1b_4b244fa5f39f08a5f795a3fd1cf15bd839e11d67/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2408" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/225px-HBO_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", HBO
+https://stream.ec.cx/a/hls1/hbo.m3u8?expires=1594725457&token=c275794a43c30c4885ad847b27cfe12e
+#EXTINF:0 type="stream" channelId="935" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/300px-HBO2_logo.png", HBO 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/hbo2.m3u8?mu3zAQc9HC3GbwJq=L-Tj4eZstmWu4M2kE_iN7Q&3U1G7qaTxrPbalZnEx=1612142662
+#EXTINF:0 type="stream" channelId="2584" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/300px-HBO_Family_logo.png", HBO Family
+https://stream.ec.cx/a/hls1/hbofamily.m3u8?expires=1594725372&token=830b016103a259b43c4f91138ae7c61d
+
+#EXTINF:0 type="stream" channelId="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/300px-HBO_Mundi.svg.png", HBO Mundi
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/hbomundi_9f682df2_98246752a82f5464c0d3e48bee6a569374aa03f8/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="2585" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/300px-Logohboplus2019.svg.png", HBO Plus
+https://stream.ec.cx/a/hls1/hboplus.m3u8?expires=1594725196&token=4627745c8cb387a27b785cf1208e2c3d
+
+#EXTINF:0 type="stream" channelId="361" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/300px-HBO_Pop.svg.png", HBO Pop
+https://stream.ec.cx/a/hls1/hbopop.m3u8?expires=1594724951&token=23dc28a39f667834c9b1ba0295c54733
+
+#EXTINF:0 type="stream" channelId="2583" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/300px-HBO_Signature.svg.png", HBO Signature
+https://stream.ec.cx/a/hls1/hbosignature.m3u8?expires=1594725121&token=9eda1c70122df3a0b1424cd262d7709e
+
+#EXTINF:0 type="stream" channelId="2587" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/300px-HBO_Xtreme.svg.png", HBO Xtreme
+https://m3u9.ml/a2/hls1/hboxtreme.m3u8?mu3zAQc9HC3GbwJq=BqbB3L36BVHOukj-bxjzWg&3U1G7qaTxrPbalZnEx=1644999072
+
+#EXTINF:0 type="stream" channelId="1455" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/300px-History_Logo.svg.png" audio-track="pt-br" subtitles="pt-br" tvg-country="BR", History
+https://stream.ec.cx/a/hls1/history.m3u8?expires=1594726385&token=77d3699f6edcf3ec219e7274534d0769
+
+#EXTINF:0 type="stream" channelId="1201" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/270px-History2Logo2019.png", History 2
+https://stream.ec.cx/a/hls1/history2.m3u8?expires=1594726343&token=dd189dc263c8a9d3c074ebf6a0104ee3
+
+#EXTINF:0 type="stream" channelId="2586" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/300px-Investiga%C3%A7%C3%A3o_Discovery_1.png", Investigação Discovery
+https://stream.ec.cx/a/hls1/investigacaodiscovery.m3u8?expires=1594726858&token=4f85899fdd5ef6300eab22f404034b18
+
+#EXTINF:0 type="stream" channelId="2588" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png", Megapix
+https://stream.ec.cx/a/hls1/megapix.m3u8?expires=1594721490&token=f5ef640972f8e087a8da8b4d2a71e36e
+
+#EXTINF:0 type="stream" channelId="237" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/300px-MTV_Logo_2010.svg.png", MTV
+https://stream.ec.cx/a/hls1/mtv.m3u8?expires=1594727332&token=da8d277a5cc766144ed66ff7d6191119
+
+#EXTINF:0 type="stream" channelId="2590" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/300px-Multishow.png", Multishow
+https://stream.ec.cx/a/hls1/multishow.m3u8?expires=1594727330&token=9061edd493a9f37307d1fafdeee524cf
+#EXTINF:0 type="stream" channelId="3778" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/300px-Natgeo_Kids_logo.svg.png" audio-track="pt" subtitles="pt" tvg-country="br", Nat Geo Kids
+https://stream.ec.cx/a/hls1/natgeokids.m3u8?expires=1594727100&token=49509035fb5b74ad87b8678ce642ed83
+#EXTINF:0 type="stream" channelId="56" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/300px-Natgeologo.svg.png", National Geographic Channel
+https://stream.ec.cx/a/hls1/natgeo.m3u8?expires=1594726259&token=ff5f93c7e832fa8d296cea0c28dce20c
+#EXTINF:0 type="stream" channelId="164" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/300px-National_Geographic_Wild_logo.svg.png", Nat Geo WILD
+https://stream.ec.cx/a/hls1/natgeowild.m3u8?expires=1594726306&token=347c92261ce522d66b499dda81081756
+#EXTINF:0 type="stream" channelId="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/300px-Nickelodeon_2009_logo.svg.png", Nickelodeon
+https://stream.ec.cx/a/hls1/nick.m3u8?expires=1594727037&token=291b9aaf748321a55c1892d73194ed7f
+#EXTINF:0 type="stream" channelId="1719" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ParamountNetwork.png/300px-ParamountNetwork.png" audio-track="pt" subtitles="pt" tvg-country="BR", Paramount Channel
+https://stream.ec.cx/a/hls1/paramount.m3u8?expires=1594726186&token=3cc5fbd9bb3a563b5d758b5d37925918
+#EXTINF:0 type="stream" channelId="1595" tvg-logo="http://retro.monstermedia.cz/wp-content/uploads/2017/09/retro-logo-bile2.png", Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w190541904.m3u8
+#EXTINF:0 type="stream" channelId="530" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/300px-Sony_Channel_Logo.png", Sony
+https://stream.ec.cx/a/hls1/sony.m3u8?expires=1594725868&token=cf210bf87774ae8e61fd31ffd679a96e
+#EXTINF:0 type="stream" channelId="383" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/300px-SpaceLogo.svg.png", Space
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/space_e6c3dd63_be157ad186765460d18e91139269221444164a07/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2600" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/375px-SporTV_2_2017_logo.svg.png", SporTV 2
+https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594727876&token=7c5db3370fce3830fd70b0b5dc2fe5f9
+#EXTINF:0 type="stream" channelId="2625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/375px-StudioUniversal2016.png", Studio Universal
+https://stream.ec.cx/a/hls1/studiouniversal.m3u8?expires=1594726113&token=7044520beabb7b45a8416f9815140254
+#EXTINF:0 type="stream" channelId="73" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/300px-SYFY.svg.png", SyFy
+https://stream.ec.cx/a/hls1/syfy.m3u8?expires=1594723753&token=14f594926ae1f659e2e2235f2abe59b4
+#EXTINF:0 type="stream" channelId="2602" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/300px-TBS_logo_2016.svg.png", TBS
+https://stream.ec.cx/a/hls1/tbs.m3u8?get=expires&token
+#EXTINF:0 type="stream" channelId="895" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/375px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
+https://stream.ec.cx/a/hls1/tcm.m3u8?expires=1594725910&token=598ae8b81aa87761a5441cd82ab0a4f8
+#EXTINF:0 type="stream" channelId="2603" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/300px-Telecine_Action_2.png", Telecine Action
+https://stream.ec.cx/a/hls1/telecineaction.m3u8?expires=1594724836&token=34301698f50c9283d756b1e2364c69c7
+#EXTINF:0 type="stream" channelId="2605" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Telecine_Cult_2.png", Telecine Cult
+https://stream.ec.cx/a/hls1/telecinecult.m3u8?expires=1594724653&token=4dabaf1931c4a8c88e4701621d707ff6
+#EXTINF:0 type="stream" channelId="2606" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Telecine-fun-2.png/300px-Telecine-fun-2.png" audio-track="por" subtitles="por" tvg-country="BR", Telecine Fun
+https://stream.ec.cx/a/hls1/telecinefun.m3u8?expires=1594724556&token=10418b2bd6a72554defd1c02e555fb7c
+#EXTINF:0 type="stream" channelId="2608" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Telecine_Pipoca_2.png/300px-Telecine_Pipoca_2.png", Telecine Pipoca
+https://stream.ec.cx/a/hls1/telecinepipoca.m3u8?expires=1594724565&token=e205f6f4187c222d70decfae8535b5e7
+#EXTINF:0 type="stream" channelId="2610" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Telecine_Premium.png/375px-Telecine_Premium.png", Telecine Premium
+https://stream.ec.cx/a/hls1/telecinepremium.m3u8?expires=1594724880&token=f20487de033bca1b679e4685761f6b9d
+#EXTINF:0 type="stream" channelId="2611" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Telecine_Touch_3.png/375px-Telecine_Touch_3.png", Telecine Touch
+https://stream.ec.cx/a/hls1/telecinetouch.m3u8?expires=1594724783&token=d4a9b6efb34cff8cf2e4c7d0cb51f347
+#EXTINF:0 type="stream" channelId="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/375px-TLC_Logo.svg.png", TLC
+https://stream.ec.cx/a/hls1/tlc.m3u8?expires=1594727318&token=8f32e65aa0fb569ad996e81f2e4df500
+#EXTINF:0 type="stream" channelId="1052" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/375px-TNT_Logo_2016.svg.png", TNT
+https://stream.ec.cx/a/hls1/tnt.m3u8?expires=1594724726&token=5cea05d991d8d0774a9be37a2195dd2b
+#EXTINF:0 type="stream" channelId="3797" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" audio-track="por" subtitles="por" tvg-country="BR", TNT Séries
+https://stream.ec.cx/a/hls1/tntseries.m3u8?expires=1594724400&token=786cf33086c4f09a0ca191f5833bc27d
+#EXTINF:0 type="stream" channelId="2639" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/Tooncast.png/338px-Tooncast.png", Tooncast
+https://stream.ec.cx/a/hls1/tooncast.m3u8?expires=1594727010&token=67899b73670a217aaf3a5a0c4598d823
+#EXTINF:0 type="stream" channelId="187" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/375px-Universal_TV_logo.svg.png" audio-track="por" subtitles="por" tvg-country="BR", Universal Channel
+https://stream.ec.cx/a/hls1/universal.m3u8?expires=1594726003&token=a6b8f84b6afc8d9cc4cb6dd316044297
+#EXTINF:0 type="stream" channelId="984" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/300px-Canal_Viva_2018_wordmark.svg.png", VIVA
+https://stream.ec.cx/a/hls1/viva.m3u8?expires=1594727611&token=feff037eae9b646c0c52857cc066d894
+#EXTINF:0 type="stream" channelId="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png", Warner Channel
+https://stream.ec.cx/a/hls1/warner.m3u8?expires=1594724340&token=ae01de511b22756203ff80566d443931
+#EXTINF:0 type="stream" channelId="3229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/300px-USA_Network_logo_%282016%29.svg.png" audio-track="eng" subtitles="eng" tvg-country="US", USA Network
+http://cdnak19.cast4u.info/channels/2/10802.m3u8
+#EXTINF:0 type="stream" channelId="2285" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
