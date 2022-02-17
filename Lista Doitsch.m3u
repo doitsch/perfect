@@ -118,7 +118,7 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w190541904.m3u8
 #EXTINF:0 type="stream" channelId="530" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/300px-Sony_Channel_Logo.png", Sony
 https://stream.ec.cx/a/hls1/sony.m3u8?expires=1594725868&token=cf210bf87774ae8e61fd31ffd679a96e
 #EXTINF:0 type="stream" channelId="383" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/300px-SpaceLogo.svg.png", Space
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/space_e6c3dd63_be157ad186765460d18e91139269221444164a07/playlist.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/spacehd/video.m3u8?md5=eSk0zfTaTSoQPQTwjJLq-g&expires=1645178008
 #EXTINF:0 type="stream" channelId="2600" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/375px-SporTV_2_2017_logo.svg.png", SporTV 2
 https://stream.ec.cx/a/hls1/sportv2.m3u8?expires=1594727876&token=7c5db3370fce3830fd70b0b5dc2fe5f9
 #EXTINF:0 type="stream" channelId="2625" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/375px-StudioUniversal2016.png", Studio Universal
@@ -154,7 +154,7 @@ https://stream.ec.cx/a/hls1/universal.m3u8?expires=1594726003&token=a6b8f84b6afc
 #EXTINF:0 type="stream" channelId="984" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/300px-Canal_Viva_2018_wordmark.svg.png", VIVA
 https://stream.ec.cx/a/hls1/viva.m3u8?expires=1594727611&token=feff037eae9b646c0c52857cc066d894
 #EXTINF:0 type="stream" channelId="2557" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/300px-Warner2018LA.png", Warner Channel
-https://stream.ec.cx/a/hls1/warner.m3u8?expires=1594724340&token=ae01de511b22756203ff80566d443931
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
 #EXTINF:0 type="stream" channelId="3229" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/300px-USA_Network_logo_%282016%29.svg.png" audio-track="eng" subtitles="eng" tvg-country="US", USA Network
 http://cdnak19.cast4u.info/channels/2/10802.m3u8
 #EXTINF:0 type="stream" channelId="2285" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/GWr5zZYDRm.jpg", m2o TV
